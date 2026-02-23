@@ -12,7 +12,7 @@
     "url": "https://betterstack.com/careers",
     "priority": true,
     "category": "devtools",
-    "hq_country": "Czech Republic",
+    "hq_country": "CZ",
     "remote_policy": "global"
   },
   {
@@ -27,7 +27,7 @@
     "name": "Hightouch",
     "url": "https://hightouch.com/careers",
     "priority": true,
-    "category": "customer data for marketers",
+    "category": "saas",
     "hq_country": "US",
     "remote_policy": "global"
   },
@@ -35,7 +35,7 @@
     "name": "Kinsta",
     "url": "https://kinsta.com/careers/",
     "priority": false,
-    "category": "customer data for marketers",
+    "category": "saas",
     "hq_country": "US",
     "remote_policy": "global"
   },
@@ -43,7 +43,7 @@
     "name": "Prezi",
     "url": "https://prezi.com/cms/careers-prezi",
     "priority": false,
-    "category": "cloud-based presentation software",
+    "category": "saas",
     "hq_country": "US",
     "remote_policy": "global"
   }
