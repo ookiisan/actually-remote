@@ -4,6 +4,7 @@ config.yaml
 cv.txt
 seen_jobs.json
 SCOPE.md
+test_scraper.py
 
 # === Python ===
 __pycache__/
