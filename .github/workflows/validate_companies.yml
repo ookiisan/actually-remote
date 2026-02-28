@@ -2,7 +2,7 @@ name: Validate Company URLs
 on:
   pull_request:
     paths:
-      - 'companies.json'
+      - 'companies.csv'
 jobs:
   validate:
     runs-on: ubuntu-latest

@@ -1,0 +1,7 @@
+name,url,priority,category,hq_country,remote_policy
+BetterStack,https://betterstack.com/careers,true,devtools,CZ,global
+Hightouch,https://hightouch.com/careers,true,saas,US,global
+Kinsta,https://kinsta.com/careers/,false,saas,US,global
+PostHog,https://posthog.com/careers,false,devtools,US,global
+Prezi,https://prezi.com/cms/careers-prezi,false,saas,US,global
+Supabase,https://supabase.com/careers,true,devtools,fully-remote,global

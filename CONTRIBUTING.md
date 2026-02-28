@@ -7,20 +7,20 @@ and the company list is only as good as the people maintaining it.
 
 ## Ways to contribute
 
-- **Add a company** — submit a PR to add a remote-friendly company to `companies.json`
+- **Add a company** — submit a PR to add a remote-friendly company to `companies.csv`
 - **Report a broken URL** — open an issue if a career page has moved or stopped working
 - **Report a bug** — something in the scraper or matching isn't behaving correctly
 - **Suggest a feature** — ideas for improving the tool
 
 ---
 
-## Adding a company to `companies.json`
+## Adding a company to `companies.csv`
 
 This is the most valuable contribution you can make.
 
 ### Requirements
 
-A company belongs in `companies.json` if:
+A company belongs in `companies.csv` if:
 - It is a tech company (software, SaaS, devtools, fintech, data, infra, etc.)
 - It has a **direct, public careers page** (no login required to view jobs)
 - It genuinely hires outside the US and/or UK
@@ -34,18 +34,12 @@ A company does **not** belong if:
 
 ### Format
 
-Add your entry to `companies.json` following this format:
+Add your entry to `companies.csv` following this format:
 
-```json
-{
-  "name": "Company Name",
-  "url": "https://company.com/careers",
-  "priority": false,
-  "category": "saas",
-  "hq_country": "NL",
-  "remote_policy": "global"
-}
-```
+|     name     |             url             | priority | category | hq_country | remote_policy |
+| ------------ | --------------------------- | -------- | -------- | ---------- | ------------- |
+| Company Name | https://company.com/careers |   false  |   saas   |     NL     |     global    |
+
 
 **Required fields:**
 - `name` — company name
@@ -68,7 +62,7 @@ on your URL when you open a PR. If it fails, check the URL and try again.
 ### Submitting
 
 1. Fork the repo
-2. Add your company entry to `companies.json` (keep the array sorted alphabetically by name)
+2. Add your company entry to `companies.csv`
 3. Open a PR with the title: `add: Company Name`
 4. The automated URL validation will run — fix any issues if it fails
 

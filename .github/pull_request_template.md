@@ -4,8 +4,8 @@
 
 ## Type of change
 
-- [ ] Add company to `companies.json`
-- [ ] Fix broken URL in `companies.json`
+- [ ] Add company to `companies.csv`
+- [ ] Fix broken URL in `companies.csv`
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Documentation update
