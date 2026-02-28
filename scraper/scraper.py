@@ -42,9 +42,16 @@ def matches_any(text, keyword_list):
     return any(k.lower() in text_lower for k in keyword_list)
 
 
-def scrape_careers_page(url, company_name, verbose=False):
+def scrape_careers_page(url, company_name, verbose=False, role_keywords=None):
     """Scrape a careers page and extract job listings.
-    If verbose=True, prints each job with title and URL (for dry-run validation)."""
+    If verbose=True, prints each job with title and URL (for dry-run validation).
+    role_keywords: list of role terms to match (e.g. from config target_titles)."""
+    if role_keywords is None:
+        role_keywords = [
+            "engineer", "developer", "architect", "specialist", "manager", "support",
+            "solutions", "solution", "customer", "forward", "deployed", "integration",
+            "EMEA", "Europe"
+        ]
     print(f"\n🔍 Scraping {company_name}...")
 
     try:
@@ -78,23 +85,17 @@ def scrape_careers_page(url, company_name, verbose=False):
             text = " ".join(link.get_text().split())
             text_lower = text.lower()
 
-            # 3. JOB-ONLY KEYWORDS
-            strict_roles = {
-                "engineer", "developer", "architect", "specialist", "manager", "support", "solutions", "solution",
-                "customer", "forward", "deployed", "integration", "EMEA", "Europe"
-            }
-
+            # 3. JOB-ONLY KEYWORDS (role_keywords param)
             # 4. FILTERING LOGIC
             is_job_portal = any(p in href_lower for p in ['greenhouse.io', 'lever.co', 'ashbyhq.com', 'workable.com'])
             has_job_path = any(p in href_lower for p in ['/job', '/career', '/opening', '/position'])
-            has_strict_role = any(role in text_lower for role in strict_roles)
+            has_strict_role = any(role.lower() in text_lower for role in role_keywords)
 
             if is_job_portal or (has_job_path and has_strict_role) or ('#' in href and has_strict_role):
                 if len(text.split()) > 7 or len(text) < 8:
                     continue
 
-                if href.rstrip('/') == url.rstrip('/') or text_lower in ['engineering', 'careers', 'view jobs',
-                                                                         'all jobs']:
+                if href.rstrip('/') == url.rstrip('/') or text_lower in ['engineering', 'careers', 'view jobs', 'all jobs']:
                     continue
 
                 if not any(j['url'] == href for j in jobs):

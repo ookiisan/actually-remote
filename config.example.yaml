@@ -9,6 +9,7 @@
 # Options: gemini, claude, openai, ollama
 # Default: gemini (best free tier — 1,500 requests/day, no expiry)
 ai_provider: gemini
+ai_model: gemini-flash-latest
 
 # --- Job Matching Thresholds ---
 # Fit score is 0-10. Jobs below the threshold are ignored.

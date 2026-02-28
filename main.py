@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import requests
 
+from ai.provider import analyze_job_fit, mock_analyze_job_fit
 from scraper.scraper import (
     load_companies,
     validate_urls,
@@ -50,7 +51,8 @@ def _load_config():
     DISCORD_WEBHOOK_URL = os.environ.get('DISCORD_WEBHOOK_URL')
 
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('models/gemini-flash-latest')
+    ai_model = _config.get('ai_model', 'models/gemini-flash-latest')
+    model = genai.GenerativeModel(f'models/{ai_model}')
 
 
 def load_json(filepath):
@@ -72,52 +74,6 @@ def load_cv():
     """Load CV text from cv.txt"""
     with open('cv.txt', 'r', encoding='utf-8') as f:
         return f.read()
-
-
-def mock_analyze_job_fit(job_title, job_description, cv_summary):
-    """Fake Gemini response for testing purposes"""
-    print(f"    [MOCK AI] Analyzing: {job_title}")
-    return {
-        "fit_score": 8,
-        "reasons_for": ["Matches title keywords", "Remote EMEA friendly"],
-        "reasons_against": ["None"],
-        "recommendation": "Apply",
-        "summary": "This is a mock response to save tokens."
-    }
-
-
-def analyze_job_fit(job_title, job_description, cv_summary):
-    """Use Gemini to analyze job fit"""
-    prompt = f"""You are a job application assistant. Compare this job description against the candidate's CV and determine fit.
-
-CV Summary:
-{cv_summary}
-
-Job Title: {job_title}
-
-Job Description:
-{job_description}
-
-Format your response as JSON:
-{{
-  "fit_score": 7,
-  "reasons_for": ["reason 1", "reason 2"],
-  "reasons_against": ["gap 1"],
-  "recommendation": "Apply",
-  "summary": "One sentence summary"
-}}"""
-
-    try:
-        response = model.generate_content(prompt)
-        response_text = response.text.strip()
-        if response_text.startswith('```'):
-            response_text = response_text.split('```')[1]
-            if response_text.startswith('json'):
-                response_text = response_text[4:]
-        return json.loads(response_text)
-    except Exception as e:
-        print(f"    ⚠️ AI analysis failed: {str(e)}")
-        return None
 
 
 def send_discord_alert(job, fit_analysis, is_priority):
@@ -162,11 +118,12 @@ def send_discord_alert(job, fit_analysis, is_priority):
         print(f"    ❌ Failed to send Discord alert: {str(e)}")
 
 
-def run_pipeline(companies_to_run, cv_summary, dry_run=False):
+def run_pipeline(companies_to_run, cv_text, dry_run=False):
     """Run the full job scraping and analysis pipeline."""
     seen_jobs = load_json('seen_jobs.json')
     new_jobs_found = 0
     alerts_sent = 0
+    max_alerts = 5 if dry_run else None
 
     for company in companies_to_run:
         name, url = company['name'], company['url']
@@ -200,9 +157,9 @@ def run_pipeline(companies_to_run, cv_summary, dry_run=False):
             try:
                 print(f"    🤔 Analyzing fit with AI...")
                 if dry_run:
-                    fit_analysis = mock_analyze_job_fit(job['title'], job_description, cv_summary)
+                    fit_analysis = mock_analyze_job_fit(job['title'], job_description, cv_text)
                 else:
-                    fit_analysis = analyze_job_fit(job['title'], job_description, cv_summary)
+                    fit_analysis = analyze_job_fit(model, job['title'], job_description, cv_text)
 
                 if not fit_analysis:
                     seen_jobs[job_url] = {'status': 'ai_failed', 'title': job['title']}
@@ -221,6 +178,9 @@ def run_pipeline(companies_to_run, cv_summary, dry_run=False):
                 }
 
                 if should_alert:
+                    if max_alerts and alerts_sent >= max_alerts:
+                        print(f"    ⏭️ Reached max alerts ({max_alerts}). Stopping.")
+                        break
                     send_discord_alert(job, fit_analysis, is_priority)
                     alerts_sent += 1
                 else:
@@ -289,10 +249,11 @@ def main():
 
     print(f"\n📋 Total Database: {len(all_companies)} companies")
     print(f"📅 Schedule: Processing group {day_of_week + 1} of 7")
-    print(f"🚀 Today's Queue: {len(companies_to_run)} companies ({len(priority_companies)} priority)")
+    print(
+        f"🚀 Today's Queue: {len(companies_to_run)} companies ({len(priority_companies)} priority)")
 
-    cv_summary = load_cv()
-    run_pipeline(companies_to_run, cv_summary, dry_run=False)
+    cv_text = load_cv()
+    run_pipeline(companies_to_run, cv_text, dry_run='--test' in sys.argv)
 
 
 if __name__ == "__main__":
