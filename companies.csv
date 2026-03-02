@@ -1,7 +1,53 @@
 name,url,priority,category,hq_country,remote_policy
-BetterStack,https://betterstack.com/careers,true,devtools,CZ,global
+Kinsta,https://kinsta.com/careers,false,saas,UK,global
+Palta,https://palta.com/job,false,saas,UK,europe
+ElevenLabs,https://elevenlabs.io/careers,false,saas,UK,global
+Ruby Labs,https://jobs.ashbyhq.com/ruby-labs,false,saas,UK,global
+GitBook,https://www.gitbook.com/careers,false,saas,FR,europe
+Poolside,https://poolside.ai/careers,false,saas,FR,global
+Photoroom,https://jobs.ashbyhq.com/photoroom,false,saas,FR,global
+bunny.net,https://bunny.net/careers,false,saas,SI,global
+Forto,https://careers.forto.com/forto-jobs,false,saas,DE,global
+Langfuse,https://jobs.ashbyhq.com/langfuse,false,saas,DE,europe
+Parloa,https://www.parloa.com/careers,false,saas,DE,global
+Prezi,https://prezi.com/cms/careers-prezi,false,saas,HU,europe
+BetterStack,https://betterstack.com/careers,true,devtool,CZ,global
+Kyan Helth,https://jobs.ashbyhq.com/kyanhealth,false,saas,CH,global
+Relai,https://relai.app/career,true,fintech,CH,europe
+Ledgy,https://ledgy.com/careers,false,saas,CH,europe
+Lakera,https://www.lakera.ai/careers,false,saas,CH,global
+rready.ai,https://join.com/companies/rready,false,saas,CH,CH
+Supabase,https://supabase.com/careers,true,devtool,fully-remote,global
+Growe,https://growe.com/career,false,game,PL,global
+Cohere,https://jobs.ashbyhq.com/cohere,false,saas,CA,global
 Hightouch,https://hightouch.com/careers,true,saas,US,global
-Kinsta,https://kinsta.com/careers/,false,saas,US,global
-PostHog,https://posthog.com/careers,false,devtools,US,global
-Prezi,https://prezi.com/cms/careers-prezi,false,saas,US,global
-Supabase,https://supabase.com/careers,true,devtools,fully-remote,global
+Railway,https://railway.com/careers,true,devtool,US,global
+SigNoz,https://jobs.ashbyhq.com/SigNoz,false,devtool,US,EU
+Resend,https://resend.com/careers,false,saas,US,global
+Vercel,https://vercel.com/career,false,saas,US,global
+Buffer,https://buffer.com/journey,false,saas,US,global
+Cast AI,https://cast.ai/careers,false,saas,US,global
+Mintlify,https://jobs.ashbyhq.com/Mintlify,false,saas,US,global
+Firecrawl,https://jobs.ashbyhq.com/firecrawl,false,saas,US,global
+Kraken,https://jobs.ashbyhq.com/kraken.com,false,saas,US,global
+Socket,https://jobs.ashbyhq.com/socket,false,saas,US,global
+PandaDoc,https://job-boards.greenhouse.io/pandadoc,false,saas,US,global
+Ashby,https://www.ashbyhq.com/careers,false,saas,US,global
+Twist Bioscience,https://www.twistbioscience.com/company/careers,false,biotech,US,global
+Sanity,https://www.sanity.io/careers,false,saas,US,global
+Metabase,https://www.metabase.com/jobs,false,saas,US,global
+Conduit,https://jobs.ashbyhq.com/Conduit,false,saas,US,global
+Chili Piper,https://www.chilipiper.com/careers,false,saas,US,global
+Fingerprint,https://fingerprint.com/careers/jobs,false,saas,US,global
+Tiger Data,https://www.tigerdata.com/careers,false,devtool,US,global
+Alpaca,https://job-boards.greenhouse.io/alpaca,false,fintech,US,global
+Brave,https://brave.com/careers,false,devtool,US,global
+LangChain,https://jobs.ashbyhq.com/langchain,false,devtool,US,global
+Kentik,https://www.kentik.com/careers,false,saas,US,global
+Planet Scale,https://job-boards.greenhouse.io/planetscale,false,saas,US,global
+DBeaver,https://dbeaver.com/join-the-dbeaver-team,false,devtool,US,global
+Zinier,https://www.zinier.com/careers,false,saas,US,global
+Circle,https://circle.so/careers,false,saas,US,global
+DataHub,https://datahub.com/company/careers,false,saas,US,global
+Sardine,https://www.sardine.ai/careers,false,saas,US,global
+ClickHouse,https://job-boards.greenhouse.io/clickhouse,false,saas,US,global
