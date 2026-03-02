@@ -46,7 +46,7 @@ notification_channels:
   # - telegram
 
 email:
-  provider: resend       # options: gmail, resend
+  provider: resend       # options: resend, gmail (will be added later)
   send_if_no_matches: false  # set true if you want confirmation
                              # it ran even with no matches
 
