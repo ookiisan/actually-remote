@@ -1,1 +1,97 @@
-{}
+{
+  "https://job-boards.greenhouse.io/hightouch/jobs/5379537004": {
+    "first_seen": "2026-03-05T10:56:24.272708",
+    "company": "Hightouch",
+    "title": "Technical Account ManagerRemote (North America)",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5770046004": {
+    "first_seen": "2026-03-05T10:56:43.735918",
+    "company": "Hightouch",
+    "title": "Customer Success Engineer Remote (Europe)",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5807949004": {
+    "first_seen": "2026-03-05T10:57:09.075172",
+    "company": "Hightouch",
+    "title": "Partner Solutions EngineerRemote (North America)",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5535187004": {
+    "first_seen": "2026-03-05T10:57:35.733029",
+    "company": "Hightouch",
+    "title": "Mid-Market Solutions EngineerRemote (North America)",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5732906004": {
+    "first_seen": "2026-03-05T10:57:59.944824",
+    "company": "Hightouch",
+    "title": "Solutions Engineer (France)Paris, France",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://railway.com/careers/solutions-architect": {
+    "first_seen": "2026-03-05T10:58:21.207193",
+    "company": "Railway",
+    "title": "Senior Solutions EngineerAnywhere",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e": {
+    "first_seen": "2026-03-05T10:58:40.507026",
+    "company": "Supabase",
+    "title": "Support Engineer (EMEA)RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd": {
+    "first_seen": "2026-03-05T10:59:10.085954",
+    "company": "Supabase",
+    "title": "Support Engineer (AMER)RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09": {
+    "first_seen": "2026-03-05T10:59:27.217733",
+    "company": "Supabase",
+    "title": "Support Engineer (APAC)RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4": {
+    "first_seen": "2026-03-05T10:59:46.660968",
+    "company": "Supabase",
+    "title": "Database Support Engineer (AMER)RemoteApply for position",
+    "fit_score": 3,
+    "alerted": false
+  },
+  "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96": {
+    "first_seen": "2026-03-05T11:00:02.964952",
+    "company": "Supabase",
+    "title": "Database Support Engineer (EMEA)RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183": {
+    "first_seen": "2026-03-05T11:00:17.784067",
+    "company": "Supabase",
+    "title": "Database Support Engineer (APAC)RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/infisical/73b79555-8b3f-486b-84fa-8d0f3d6f0e4c": {
+    "status": "skipped_location",
+    "title": "Solutions Engineer (San Francisco)Apply"
+  },
+  "https://jobs.ashbyhq.com/infisical/2ef2e211-9332-4e68-bd86-e578ce3acb60": {
+    "first_seen": "2026-03-05T11:00:41.046208",
+    "company": "Infisical",
+    "title": "Solutions Engineer (UK/EMEA)Apply",
+    "fit_score": 9,
+    "alerted": true
+  }
+}
