@@ -46,5 +46,13 @@
   "https://railway.com/careers/solutions-architect": {
     "status": "ai_failed",
     "title": "Senior Solutions EngineerAnywhere"
+  },
+  "https://jobs.ashbyhq.com/infisical/73b79555-8b3f-486b-84fa-8d0f3d6f0e4c": {
+    "status": "skipped_location",
+    "title": "Solutions Engineer (San Francisco)Apply"
+  },
+  "https://jobs.ashbyhq.com/infisical/2ef2e211-9332-4e68-bd86-e578ce3acb60": {
+    "status": "ai_failed",
+    "title": "Solutions Engineer (UK/EMEA)Apply"
   }
 }
