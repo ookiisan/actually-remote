@@ -4,12 +4,12 @@
 # config.yaml is gitignored and will never be committed.
 # Only this example file is committed to the repo.
 
-# --- AI Provider ---
+# --- AI Configuration ---
 # Which AI provider to use for CV matching.
 # Options: gemini, claude, openai, ollama
 # Default: gemini (best free tier — 1,500 requests/day, no expiry)
 ai_provider: gemini
-ai_model: gemini-flash-latest
+ai_model: gemini-2.0-flash    # model to use for CV matching and discovery
 
 # --- Job Matching Thresholds ---
 # Fit score is 0-10. Jobs below the threshold are ignored.
@@ -45,8 +45,8 @@ location_keywords:
 # List the channels you want to enable.
 # Comment out any channel you don't want.
 notification_channels:
-  - discord
-  # - email
+  # - discord
+  - email
   # - telegram
 
 email:

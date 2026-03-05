@@ -19,6 +19,7 @@ Circle,https://circle.so/careers,FALSE,saas,US,global
 Clerk,https://clerk.com/careers,FALSE,devtool,US,global
 ClickHouse,https://job-boards.greenhouse.io/clickhouse,FALSE,saas,US,global
 Clickup,https://clickup.com/careers,FALSE,saas,US,global
+CoLab,https://www.colabsoftware.com/careers,FALSE,saas,CA,global
 Cohere,https://jobs.ashbyhq.com/cohere,FALSE,saas,CA,global
 Conduit,https://jobs.ashbyhq.com/Conduit,FALSE,saas,US,global
 Customer.io,https://customer.io/careers,FALSE,saas,US,global
@@ -72,13 +73,12 @@ Pleo,https://www.pleo.io/en/careers/jobs,FALSE,saas,DK,europe
 Polar,https://jobs.ashbyhq.com/polar,FALSE,saas,SE,global
 Poolside,https://poolside.ai/careers,FALSE,saas,FR,global
 Prezi,https://prezi.com/cms/careers-prezi,FALSE,saas,HU,europe
-Proxify,https://proxify.io/internal-careers/open-positions,FALSE,saas,SE,global
 PurpleRain,https://purplerain.freshteam.com/jobs,FALSE,saas,US,global
 Railway,https://railway.com/careers,TRUE,devtool,US,global
 Relai,https://relai.app/career,TRUE,fintech,CH,europe
+Remote,https://remote.com/openings,FALSE,saas,US,global
 Rerun,https://rerun.io/careers,FALSE,devtool,SE,global
 Resend,https://resend.com/careers,FALSE,saas,US,global
-Revoluts,https://www.revolut.com/careers,FALSE,fintech,UK,global
 rready.ai,https://join.com/companies/rready,FALSE,saas,CH,CH
 Ruby Labs,https://jobs.ashbyhq.com/ruby-labs,FALSE,saas,UK,global
 Runpod,https://job-boards.greenhouse.io/runpod,FALSE,infra,US,global

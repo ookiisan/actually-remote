@@ -9,7 +9,7 @@ from datetime import datetime
 
 import yaml
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai
 
 from ai.provider import analyze_job_fit, mock_analyze_job_fit
 from notifications.discord import send_discord_alert, send_discord_summary
@@ -53,9 +53,17 @@ def _load_config():
 
     GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
-    genai.configure(api_key=GEMINI_API_KEY)
-    ai_model = config.get('ai_model', 'models/gemini-flash-latest')
-    model = genai.GenerativeModel(f'models/{ai_model}')
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    ai_model = config.get('ai_model', 'gemini-2.5-flash')
+
+    class _ModelWrapper:
+        def generate_content(self, prompt):
+            return client.models.generate_content(
+                model=ai_model,
+                contents=prompt,
+            )
+
+    model = _ModelWrapper()
 
 
 def load_json(filepath):
