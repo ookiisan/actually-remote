@@ -1,6 +1,7 @@
 # === Personal / sensitive files — never commit these ===
 .env
 config.yaml
+discovery_results.txt
 cv.txt
 seen_jobs.json
 SCOPE.md
