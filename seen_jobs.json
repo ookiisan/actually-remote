@@ -226,5 +226,69 @@
     "title": "Solutions Architect (East & Central) US (Remote)",
     "fit_score": 2,
     "alerted": false
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5799720004": {
+    "first_seen": "2026-03-28T22:41:11.679536",
+    "company": "Hightouch",
+    "title": "Revenue Enablement Onboarding Program ManagerRemote",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://remote.com/openings/7534040003": {
+    "first_seen": "2026-03-28T22:41:34.862619",
+    "company": "Remote",
+    "title": "Senior Product Manager, Payroll",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://remote.com/openings/7599380003": {
+    "first_seen": "2026-03-28T22:41:51.342580",
+    "company": "Remote",
+    "title": "Senior Product Manager, Integrations",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7550605003": {
+    "first_seen": "2026-03-28T22:42:09.005506",
+    "company": "Remote",
+    "title": "Group Product Manager - Fintech",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7596525003": {
+    "first_seen": "2026-03-28T22:42:26.041456",
+    "company": "Remote",
+    "title": "Group Product Manager, HR Core",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/runpod/jobs/5030096008": {
+    "first_seen": "2026-03-28T22:42:44.699252",
+    "company": "Runpod",
+    "title": "Technical Program ManagerRemote, USA",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/runpod/jobs/5112001008": {
+    "first_seen": "2026-03-28T22:43:00.661770",
+    "company": "Runpod",
+    "title": "Senior Product Manager Remote, USA",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.sanity.io/careers/staff-product-manager-studio": {
+    "first_seen": "2026-03-28T22:43:15.597783",
+    "company": "Sanity",
+    "title": "Staff Product Manager, Studio",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.sardine.ai/job-listings/qa-engineer": {
+    "status": "skipped_location",
+    "title": "QA EngineerEngineering"
+  },
+  "https://semaphore.bamboohr.com/careers/40": {
+    "status": "skipped_location",
+    "title": "Customer Success Manager"
   }
 }
