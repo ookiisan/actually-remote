@@ -1,1 +1,126 @@
-{}
+{
+  "https://attio.com/careers/customer-success-manager-london-hybrid": {
+    "status": "skipped_location",
+    "title": "03Customer Success ManagerLondon [Hybrid]"
+  },
+  "https://attio.com/careers/customer-success-manager-new-york-hybrid": {
+    "status": "skipped_location",
+    "title": "04Customer Success ManagerNew York [Hybrid]"
+  },
+  "https://attio.com/careers/customer-success-manager-san-francisco-hybrid": {
+    "status": "skipped_location",
+    "title": "05Customer Success ManagerSan Francisco [Hybrid]"
+  },
+  "https://cast.ai/careers/apply/?gh_jid=4101630009": {
+    "first_seen": "2026-03-30T16:25:25.853633",
+    "company": "Cast AI",
+    "title": "Senior Product Manager – Agentic AI product",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/chilipiper/jobs/4148410003": {
+    "status": "failed_jd_fetch",
+    "title": "Customer Success ManagerRemote"
+  },
+  "https://boards.greenhouse.io/chilipiper/jobs/4816865003": {
+    "status": "failed_jd_fetch",
+    "title": "Product ManagerRemote"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004": {
+    "first_seen": "2026-03-30T16:25:56.822043",
+    "company": "ClickHouse",
+    "title": "QA Engineer - Core Database (remote)Germany (remote)",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654024004": {
+    "first_seen": "2026-03-30T16:26:14.024921",
+    "company": "ClickHouse",
+    "title": "QA Engineer - Core Database (remote)Netherlands (remote)",
+    "fit_score": 4,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654026004": {
+    "first_seen": "2026-03-30T16:26:38.794617",
+    "company": "ClickHouse",
+    "title": "QA Engineer - Core Database (remote)Spain (remote)",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5670526004": {
+    "status": "ai_failed",
+    "title": "QA Engineer - Core Database (remote)India (remote)"
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5699984004": {
+    "status": "ai_failed",
+    "title": "Customer Success EngineerRemote (North America)"
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5770046004": {
+    "status": "ai_failed",
+    "title": "Customer Success Engineer Remote (Europe)"
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5799720004": {
+    "status": "ai_failed",
+    "title": "Revenue Enablement Onboarding Program ManagerRemote"
+  },
+  "https://linear.app/careers/c3457e89-9ac2-4017-93d5-d1a7935782a0": {
+    "status": "ai_failed",
+    "title": "Customer Success Manager, EuropeLondonLearn more→"
+  },
+  "https://linear.app/careers/86abcce0-04b2-405c-9a8e-e0ca84813914": {
+    "status": "ai_failed",
+    "title": "Product ManagerEurope, North AmericaLearn more→"
+  },
+  "https://job-boards.greenhouse.io/pandadoc/jobs/7590872": {
+    "status": "ai_failed",
+    "title": "Customer Success Manager – PooledEurope"
+  },
+  "https://remote.com/openings/7534040003": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Payroll"
+  },
+  "https://remote.com/openings/7599380003": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Integrations"
+  },
+  "https://remote.com/openings/7550605003": {
+    "status": "ai_failed",
+    "title": "Group Product Manager - Fintech"
+  },
+  "https://remote.com/openings/7596525003": {
+    "status": "ai_failed",
+    "title": "Group Product Manager, HR Core"
+  },
+  "https://job-boards.greenhouse.io/runpod/jobs/5030096008": {
+    "status": "ai_failed",
+    "title": "Technical Program ManagerRemote, USA"
+  },
+  "https://job-boards.greenhouse.io/runpod/jobs/5112001008": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager Remote, USA"
+  },
+  "https://www.sanity.io/careers/staff-product-manager-studio": {
+    "status": "ai_failed",
+    "title": "Staff Product Manager, Studio"
+  },
+  "https://www.sardine.ai/job-listings/qa-engineer": {
+    "status": "skipped_location",
+    "title": "QA EngineerEngineering"
+  },
+  "https://semaphore.bamboohr.com/careers/40": {
+    "status": "skipped_location",
+    "title": "Customer Success Manager"
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/CA.266/customer-success-manager/all": {
+    "status": "ai_failed",
+    "title": "Customer Success Manager Tel Aviv"
+  },
+  "https://www.upwind.io/careers/co/us-remote/E9.264/customer-success-manager-us-remote/all": {
+    "status": "ai_failed",
+    "title": "Customer Success Manager (US Remote) US (Remote)"
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/BA.04B/product-manager/all": {
+    "status": "ai_failed",
+    "title": "Product Manager Tel Aviv · Full-time"
+  }
+}
