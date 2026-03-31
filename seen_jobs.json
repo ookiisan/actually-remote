@@ -122,5 +122,56 @@
   "https://www.upwind.io/careers/co/tel-aviv/BA.04B/product-manager/all": {
     "status": "ai_failed",
     "title": "Product Manager Tel Aviv · Full-time"
+  },
+  "https://bbagency.bamboohr.com/jobs/view.php?id=59": {
+    "first_seen": "2026-03-31T06:18:38.204847",
+    "company": "Balkan Bros.",
+    "title": "Europe, Remote Senior Technical Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7618637": {
+    "status": "skipped_location",
+    "title": "Senior Technical Program Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7539390": {
+    "status": "ai_failed",
+    "title": "Senior Technical Program Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7539389": {
+    "status": "ai_failed",
+    "title": "Senior Technical Program Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7541086": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager – Email Messaging"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7541089": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager – Email Messaging"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7411220": {
+    "status": "ai_failed",
+    "title": "Senior AI Product Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/5931886": {
+    "status": "ai_failed",
+    "title": "Senior AI Product Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/5931885": {
+    "status": "ai_failed",
+    "title": "Senior AI Product Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7695436": {
+    "status": "ai_failed",
+    "title": "Senior QA Engineer, IMF"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7695437": {
+    "status": "ai_failed",
+    "title": "Senior QA Engineer, IMF"
+  },
+  "https://jobs.crazygames.com/o/remote-product-manager-game-experience": {
+    "status": "ai_failed",
+    "title": "[REMOTE] Product Manager Game Experience"
   }
 }
