@@ -251,5 +251,48 @@
     "title": "Operations Program Manager",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://jobs.ashbyhq.com/notion/9a050d73-7f93-4dc1-8b30-1eb1da15d696": {
+    "first_seen": "2026-04-03T06:15:02.523038",
+    "company": "Notion",
+    "title": "Revenue Enablement Program Manager, EMEADublin, Ireland",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://www.pandadoc.com/careers/principal-product-manager-document-domain-eu/": {
+    "first_seen": "2026-04-03T06:15:45.892721",
+    "company": "PandaDoc",
+    "title": "Principal Product Manager, Document Domain",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://team.peopleforce.io/careers/v/157473-senior-product-manager": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager"
+  },
+  "https://careers.phorest.com/jobs/7377551-senior-product-manager-business-systems": {
+    "first_seen": "2026-04-03T06:16:32.724908",
+    "company": "Phorest",
+    "title": "Senior Product Manager Business Systems",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://careers.phorest.com/jobs/7339113-product-manager-reporting": {
+    "status": "skipped_location",
+    "title": "Product Manager - Reporting"
+  },
+  "https://careers.phorest.com/jobs/7266176-senior-product-manager-communications": {
+    "first_seen": "2026-04-03T06:16:51.025307",
+    "company": "Phorest",
+    "title": "Senior Product Manager - Communications",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/4569853008": {
+    "first_seen": "2026-04-03T06:17:13.746240",
+    "company": "Piktochart",
+    "title": "Senior Quality Assurance Engineer – Remote (APAC/EU)",
+    "fit_score": 3,
+    "alerted": false
   }
 }
