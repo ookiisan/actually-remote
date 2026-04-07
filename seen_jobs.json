@@ -48,5 +48,77 @@
     "title": "Graduate Delivery ManagerTeam ClientRemote - South Africa",
     "fit_score": 5,
     "alerted": false
+  },
+  "https://bbagency.bamboohr.com/jobs/view.php?id=59": {
+    "first_seen": "2026-04-07T10:14:13.128720",
+    "company": "Balkan Bros.",
+    "title": "Europe, Remote Senior Technical Product Manager",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7618637": {
+    "status": "skipped_location",
+    "title": "Senior Technical Program Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7539390": {
+    "status": "ai_failed",
+    "title": "Senior Technical Program Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7539389": {
+    "first_seen": "2026-04-07T10:14:49.352979",
+    "company": "Bloomreach",
+    "title": "Senior Technical Program Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7411220": {
+    "first_seen": "2026-04-07T10:15:07.206958",
+    "company": "Bloomreach",
+    "title": "Senior AI Product Manager",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/5931886": {
+    "status": "ai_failed",
+    "title": "Senior AI Product Manager"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/5931885": {
+    "first_seen": "2026-04-07T10:15:35.342098",
+    "company": "Bloomreach",
+    "title": "Senior AI Product Manager",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://careers.bonfire.com/senior-qa-engineer-2/": {
+    "first_seen": "2026-04-07T10:15:56.823214",
+    "company": "Bonfire",
+    "title": "Senior QA Automation Engineer",
+    "fit_score": 3,
+    "alerted": false
+  },
+  "https://boards.greenhouse.io/chilipiper/jobs/4816865003": {
+    "status": "failed_jd_fetch",
+    "title": "Product ManagerRemote"
+  },
+  "https://jobs.crazygames.com/o/remote-product-manager-game-experience": {
+    "first_seen": "2026-04-07T10:17:17.628684",
+    "company": "Crazy Games",
+    "title": "[REMOTE] Product Manager Game Experience",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.crazygames.com/o/remote-quality-assurance-automation-manager": {
+    "first_seen": "2026-04-07T10:17:35.295873",
+    "company": "Crazy Games",
+    "title": "[REMOTE] Quality Assurance & Automation Manager",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4666290005": {
+    "first_seen": "2026-04-07T10:18:22.218025",
+    "company": "dbt",
+    "title": "Staff Product Manager- Developer Experience",
+    "fit_score": 8,
+    "alerted": true
   }
 }
