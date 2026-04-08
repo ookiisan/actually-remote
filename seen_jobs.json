@@ -120,5 +120,69 @@
     "title": "Staff Product Manager- Developer Experience",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.deel.com/careers/position/?ashby_jid=7af3a8dd-f0b0-49dc-9c59-73318a653200": {
+    "first_seen": "2026-04-08T06:15:41.230185",
+    "company": "Deel",
+    "title": "Senior Product Manager - EquityEMEAProductFullTime",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.domestika.org/en/jobs/91653-product-manager-growth-remote": {
+    "first_seen": "2026-04-08T06:16:04.654294",
+    "company": "Domestika",
+    "title": "Product Manager – Growth",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.domestika.org/en/jobs/91652-product-manager-learning-remote": {
+    "first_seen": "2026-04-08T06:16:23.449439",
+    "company": "Domestika",
+    "title": "Product Manager – Learning",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://evervault.com/careers/founding-product-manager": {
+    "status": "skipped_location",
+    "title": "Founding Product Manager"
+  },
+  "https://boards.greenhouse.io/figma/jobs/5799555004?gh_jid=5799555004": {
+    "first_seen": "2026-04-08T06:17:28.073516",
+    "company": "Figma",
+    "title": "Design Program Manager, AI",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004": {
+    "first_seen": "2026-04-08T06:17:49.664440",
+    "company": "Figma",
+    "title": "Technical Program Manager, AI Performance",
+    "fit_score": 5,
+    "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5792497004?gh_jid=5792497004": {
+    "status": "skipped_location",
+    "title": "Program Manager, Real Estate & Facilities"
+  },
+  "https://boards.greenhouse.io/figma/jobs/5830640004?gh_jid=5830640004": {
+    "first_seen": "2026-04-08T06:18:12.479241",
+    "company": "Figma",
+    "title": "Product Manager, AI Platform",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004": {
+    "first_seen": "2026-04-08T06:18:32.735610",
+    "company": "Figma",
+    "title": "Product Manager, Design Tools",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/5801730004?gh_jid=5801730004": {
+    "first_seen": "2026-04-08T06:18:54.703570",
+    "company": "Figma",
+    "title": "Operations Program Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
