@@ -36,7 +36,7 @@ Feather Insurance,https://feather-insurance.com/careers,FALSE,fintech,DE,europe
 Featurebase,https://www.featurebase.app/careers,FALSE,saas,EE,global
 Fingerprint,https://fingerprint.com/careers/jobs,FALSE,saas,US,global
 Firecrawl,https://jobs.ashbyhq.com/firecrawl,FALSE,saas,US,global
-Forto,https://careers.forto.com/forto-jobs,FALSE,saas,DE,global
+Forto,https://careers.forto.com/forto-jobs/,FALSE,saas,DE,global
 GitBook,https://www.gitbook.com/careers,FALSE,saas,FR,europe
 GitLab,https://job-boards.greenhouse.io/gitlab,FALSE,saas,US,global
 GlobalLogic,https://www.globallogic.com/careers/,FALSE,,,
@@ -95,7 +95,6 @@ Supabase,https://supabase.com/careers,FALSE,devtool,fully-remote,global
 Superside,https://careers.superside.com/jobs,FALSE,other,US,global
 SwissBorg,https://jobs.lever.co/swissborg,FALSE,fintech,CH,europe
 Tiger Data,https://www.tigerdata.com/careers,FALSE,devtool,US,global
-Too Good To Go,https://www.toogoodtogo.com/en-gb/careers#open-roles,FALSE,saas,DK,global
 Twist Bioscience,https://www.twistbioscience.com/company/careers,FALSE,biotech,US,global
 Upwind,https://www.upwind.io/careers,FALSE,saas,US,global
 Vercel,https://vercel.com/career,FALSE,saas,US,global
@@ -302,7 +301,6 @@ Docker,https://www.docker.com/careers,,,,
 Doconomy,https://www.doconomy.com,,,,
 Doist,https://doist.com/careers,,,,
 DoiT,https://careers.doit.com,,,,
-Domestika,https://www.domestika.org/en/jobs/@domestika,,,,
 Drip,https://www.drip.com/careers,,,,
 Dropbox,https://www.dropbox.com/jobs,,,,
 Dropified,https://www.dropified.com/careers,,,,
@@ -1011,3 +1009,4 @@ SportyGroup,https://job-boards.eu.greenhouse.io/sportygroup,,,,
 Shopfully,https://job-boards.greenhouse.io/shopfully,,,,
 Planet,https://job-boards.greenhouse.io/planetlabs,,,,
 Lago,https://getlago.com/hiring#open-roles,,,,
+XCEED,https://xceed.factorialhr.com/#jobs,,,,
