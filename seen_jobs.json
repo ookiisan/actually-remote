@@ -191,5 +191,33 @@
     "title": "Product ManagerEurope, North AmericaLearn more→",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://remote.com/openings/7534040003": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Payroll"
+  },
+  "https://remote.com/openings/7599380003": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Integrations"
+  },
+  "https://remote.com/openings/7550605003": {
+    "status": "ai_failed",
+    "title": "Group Product Manager - Fintech"
+  },
+  "https://remote.com/openings/7596525003": {
+    "status": "ai_failed",
+    "title": "Group Product Manager, HR Core"
+  },
+  "https://remote.com/openings/7684296003": {
+    "status": "ai_failed",
+    "title": "Senior Implementations Program Manager"
+  },
+  "https://job-boards.greenhouse.io/runpod/jobs/5112001008": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager Remote, USA"
+  },
+  "https://www.sanity.io/careers/staff-product-manager-studio": {
+    "status": "ai_failed",
+    "title": "Staff Product Manager, Studio"
   }
 }
