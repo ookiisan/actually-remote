@@ -219,5 +219,62 @@
   "https://www.sanity.io/careers/staff-product-manager-studio": {
     "status": "ai_failed",
     "title": "Staff Product Manager, Studio"
+  },
+  "https://www.sardine.ai/job-listings/qa-engineer": {
+    "status": "skipped_location",
+    "title": "QA EngineerEngineering"
+  },
+  "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4802205101": {
+    "first_seen": "2026-04-11T05:54:01.451975",
+    "company": "Scalapay",
+    "title": "Senior Product Manager - SubscriptionMilan, Italy",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/shopfully/jobs/7488635": {
+    "first_seen": "2026-04-11T05:54:37.270292",
+    "company": "Shopfully",
+    "title": "Product Manager - Shopper NetworkItaly",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4729609101": {
+    "first_seen": "2026-04-11T05:55:41.335017",
+    "company": "SportyGroup",
+    "title": "Product Manager- Sporty Games UKUK - Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4818420101": {
+    "status": "skipped_location",
+    "title": "BG QA Associate with FrenchBulgaria"
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4776397101": {
+    "first_seen": "2026-04-11T05:55:58.230902",
+    "company": "SportyGroup",
+    "title": "Games Project Manager (Hybrid)Cape Town",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/6979353": {
+    "first_seen": "2026-04-11T05:57:17.269372",
+    "company": "Testlio",
+    "title": "QA Analyst (Future Roles)Global",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/6953297": {
+    "first_seen": "2026-04-11T05:57:36.204796",
+    "company": "Testlio",
+    "title": "QA Tester (Future Roles)Global",
+    "fit_score": 4,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/7760187": {
+    "first_seen": "2026-04-11T05:58:00.458626",
+    "company": "Testlio",
+    "title": "Software QA Tester Remote in AMER",
+    "fit_score": 4,
+    "alerted": false
   }
 }
