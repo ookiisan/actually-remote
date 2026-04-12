@@ -276,5 +276,37 @@
     "title": "Software QA Tester Remote in AMER",
     "fit_score": 4,
     "alerted": false
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5181925008": {
+    "first_seen": "2026-04-12T06:19:10.739565",
+    "company": "ThriveCart",
+    "title": "Quality Assurance EngineerNewRemote",
+    "fit_score": 4,
+    "alerted": false
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/BA.04B/product-manager/all": {
+    "first_seen": "2026-04-12T06:19:43.924444",
+    "company": "Upwind",
+    "title": "Product Manager Tel Aviv · Full-time",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.veeva.com/job-search-results/?search=&remote=false&ts=QA+%26+Release+Engineering®ions=&office_locations=": {
+    "status": "failed_jd_fetch",
+    "title": "View QA & Release Engineering jobs →"
+  },
+  "https://saasglobal.teamtailor.com/jobs/7451461-product-manager": {
+    "first_seen": "2026-04-12T06:20:14.478224",
+    "company": "WP Media",
+    "title": "Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4672348005": {
+    "first_seen": "2026-04-12T06:21:32.926192",
+    "company": "dbt",
+    "title": "Program Manager, Scaled Success",
+    "fit_score": 9,
+    "alerted": true
   }
 }
