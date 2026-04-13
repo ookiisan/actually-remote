@@ -308,5 +308,13 @@
     "title": "Program Manager, Scaled Success",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.awin.com/gb/careers/vacancies/7644672003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Analytics (m/f/d)"
+  },
+  "https://accessiway.teamtailor.com/jobs/7458289-project-manager-intern": {
+    "status": "ai_failed",
+    "title": "Project Manager Intern"
   }
 }
