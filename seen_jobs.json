@@ -316,5 +316,54 @@
   "https://accessiway.teamtailor.com/jobs/7458289-project-manager-intern": {
     "status": "ai_failed",
     "title": "Project Manager Intern"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004": {
+    "status": "ai_failed",
+    "title": "QA Engineer - Core Database (remote)Germany (remote)"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654024004": {
+    "status": "ai_failed",
+    "title": "QA Engineer - Core Database (remote)Netherlands (remote)"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5654026004": {
+    "first_seen": "2026-04-14T06:26:02.888914",
+    "company": "ClickHouse",
+    "title": "QA Engineer - Core Database (remote)Spain (remote)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5670526004": {
+    "status": "ai_failed",
+    "title": "QA Engineer - Core Database (remote)India (remote)"
+  },
+  "https://www.deel.com/careers/position/?ashby_jid=92da570f-3b30-40a2-98c4-28b99fc9cee0": {
+    "status": "skipped_location",
+    "title": "Project Manager | APACAustraliaCustomer OnboardingFullTime"
+  },
+  "https://careers.dos.design/jobs/7346052-program-manager": {
+    "status": "skipped_location",
+    "title": "Program Manager"
+  },
+  "https://careers.dos.design/jobs/7266197-project-manager": {
+    "status": "skipped_location",
+    "title": "Project Manager"
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4839114101": {
+    "first_seen": "2026-04-14T06:28:21.950633",
+    "company": "Ebury",
+    "title": "Product Manager - Financial Reporting",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4839106101": {
+    "first_seen": "2026-04-14T06:28:47.332339",
+    "company": "Ebury",
+    "title": "Product Manager - Financial Reporting",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4839105101": {
+    "status": "ai_failed",
+    "title": "Product Manager - Financial Reporting"
   }
 }
