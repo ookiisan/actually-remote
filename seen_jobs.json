@@ -365,5 +365,12 @@
   "https://careers.ebury.com/company/careers/job?gh_jid=4839105101": {
     "status": "ai_failed",
     "title": "Product Manager - Financial Reporting"
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5799720004": {
+    "first_seen": "2026-04-15T06:28:43.022923",
+    "company": "Hightouch",
+    "title": "Revenue Enablement Onboarding Program ManagerRemote",
+    "fit_score": 7,
+    "alerted": true
   }
 }
