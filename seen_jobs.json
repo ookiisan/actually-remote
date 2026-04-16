@@ -372,5 +372,9 @@
     "title": "Revenue Enablement Onboarding Program ManagerRemote",
     "fit_score": 7,
     "alerted": true
+  },
+  "https://www.livechat.com/careers/senior-product-manager-customer-list/": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager - Customer List"
   }
 }
