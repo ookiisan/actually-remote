@@ -376,5 +376,9 @@
   "https://www.livechat.com/careers/senior-product-manager-customer-list/": {
     "status": "ai_failed",
     "title": "Senior Product Manager - Customer List"
+  },
+  "https://www.sanity.io/careers/staff-product-manager-content-agent": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Content Agent"
   }
 }
