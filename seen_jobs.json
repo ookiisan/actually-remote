@@ -380,5 +380,19 @@
   "https://www.sanity.io/careers/staff-product-manager-content-agent": {
     "status": "skipped_location",
     "title": "Staff Product Manager, Content Agent"
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5192065008": {
+    "first_seen": "2026-04-19T06:24:29.531832",
+    "company": "ThriveCart",
+    "title": "Product Manager – PaymentsNewRemote",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4670079005": {
+    "first_seen": "2026-04-19T06:26:23.310543",
+    "company": "dbt",
+    "title": "Product Manager - Fusion",
+    "fit_score": 7,
+    "alerted": true
   }
 }
