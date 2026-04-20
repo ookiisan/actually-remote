@@ -394,5 +394,19 @@
     "title": "Product Manager - Fusion",
     "fit_score": 7,
     "alerted": true
+  },
+  "https://accessiway.teamtailor.com/jobs/7571325-project-manager": {
+    "first_seen": "2026-04-20T07:10:57.771250",
+    "company": "Accessiway",
+    "title": "Project Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://accessiway.teamtailor.com/jobs/7561673-product-manager": {
+    "first_seen": "2026-04-20T07:11:18.993119",
+    "company": "Accessiway",
+    "title": "Product Manager",
+    "fit_score": 9,
+    "alerted": true
   }
 }
