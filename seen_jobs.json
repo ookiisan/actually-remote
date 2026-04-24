@@ -408,5 +408,20 @@
     "title": "Product Manager",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://careers.phorest.com/jobs/7603764-product-manager-consultations": {
+    "first_seen": "2026-04-24T07:00:06.870476",
+    "company": "Phorest",
+    "title": "Product Manager - Consultations",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://railsware.com/careers/senior-qa-engineer/?gh_jid=4847495101": {
+    "status": "ai_failed",
+    "title": "QA Engineer"
+  },
+  "https://www.sanity.io/careers/senior-product-manager-content-lake": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Content Lake"
   }
 }
