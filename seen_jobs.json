@@ -427,5 +427,9 @@
   "https://boards.greenhouse.io/figma/jobs/5978327004?gh_jid=5978327004": {
     "status": "skipped_location",
     "title": "Strategic Program Manager, Marketing"
+  },
+  "https://job-boards.greenhouse.io/alpaca/jobs/5820445004": {
+    "status": "ai_failed",
+    "title": "Product Manager - Internal ToolsRemote - Americas"
   }
 }
