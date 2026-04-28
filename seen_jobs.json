@@ -431,5 +431,23 @@
   "https://job-boards.greenhouse.io/alpaca/jobs/5820445004": {
     "status": "ai_failed",
     "title": "Product Manager - Internal ToolsRemote - Americas"
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4851628101": {
+    "first_seen": "2026-04-28T07:28:35.856752",
+    "company": "Ebury",
+    "title": "Product Manager - Treasury Systems",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4851626101": {
+    "status": "ai_failed",
+    "title": "Product Manager - Treasury Systems"
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4851615101": {
+    "first_seen": "2026-04-28T07:29:15.003751",
+    "company": "Ebury",
+    "title": "Product Manager - Treasury Systems",
+    "fit_score": 8,
+    "alerted": true
   }
 }
