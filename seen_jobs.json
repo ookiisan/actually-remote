@@ -453,5 +453,16 @@
   "https://jobs.ashbyhq.com/notion/1c58623e-73f8-43c7-a342-1475c2eab7af": {
     "status": "skipped_location",
     "title": "Digital Customer Success Program ManagerSan Francisco, California"
+  },
+  "https://jobs.ashbyhq.com/paddle/abf0efd1-7ebb-4d1e-8587-1a7ae093f6f0": {
+    "status": "skipped_location",
+    "title": "ProductSenior Product ManagerUK"
+  },
+  "https://remote.com/openings/7720367003": {
+    "first_seen": "2026-05-01T07:24:29.234750",
+    "company": "Remote",
+    "title": "Senior Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
