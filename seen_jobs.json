@@ -464,5 +464,19 @@
     "title": "Senior Product Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4748864101": {
+    "first_seen": "2026-05-02T06:57:24.769191",
+    "company": "SportyGroup",
+    "title": "Product ManagerMexico - Remote",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/7868567": {
+    "first_seen": "2026-05-02T06:58:40.393963",
+    "company": "Testlio",
+    "title": "Freelance Software Tester (Singapore)NewSingapore",
+    "fit_score": 1,
+    "alerted": false
   }
 }
