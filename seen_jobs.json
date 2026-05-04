@@ -482,5 +482,16 @@
   "https://boards.greenhouse.io/figma/jobs/5982942004?gh_jid=5982942004": {
     "status": "ai_failed",
     "title": "Technical Program Manager, Security"
+  },
+  "https://www.awin.com/gb/careers/vacancies/7719350003": {
+    "first_seen": "2026-05-04T07:43:22.158475",
+    "company": "AWIN",
+    "title": "Product Manager, CRM (m/f/d)",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.awin.com/gb/careers/vacancies/7714845003": {
+    "status": "skipped_location",
+    "title": "Product Manager, Partnerships (m/f/d)"
   }
 }
