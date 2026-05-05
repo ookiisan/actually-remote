@@ -493,5 +493,31 @@
   "https://www.awin.com/gb/careers/vacancies/7714845003": {
     "status": "skipped_location",
     "title": "Product Manager, Partnerships (m/f/d)"
+  },
+  "https://revolutpeople.com/cleo/public/careers/position/lead-product-manager-851b2bb2-5cbb-4749-9859-7bd7f5c86d1a": {
+    "status": "skipped_location",
+    "title": "Lead Product ManagerSan Francisco / office"
+  },
+  "https://revolutpeople.com/cleo/public/careers/position/lead-product-manager---enablement-6394eb02-f220-48b6-a649-745fd136e7da": {
+    "first_seen": "2026-05-05T07:12:11.080123",
+    "company": "Cleo",
+    "title": "Lead Product Manager - EnablementUK - Remote",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://revolutpeople.com/cleo/public/careers/position/product-manager---growth-11013bef-3fdc-43b5-8db0-e925d33e1814": {
+    "status": "skipped_location",
+    "title": "Product Manager - GrowthUnited Kingdom / office"
+  },
+  "https://revolutpeople.com/cleo/public/careers/position/product-manager---core-experience-ee38ed93-3918-4ac0-aaa2-77c1682e33b8": {
+    "status": "ai_failed",
+    "title": "Product Manager - Core ExperienceUK - Remote"
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4856379101": {
+    "first_seen": "2026-05-05T07:14:39.431884",
+    "company": "Ebury",
+    "title": "Senior Product Manager - Money Flows",
+    "fit_score": 8,
+    "alerted": true
   }
 }
