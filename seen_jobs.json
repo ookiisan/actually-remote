@@ -523,5 +523,12 @@
   "https://www.globallogic.com/careers/technical-program-manager-irc294357/": {
     "status": "skipped_location",
     "title": "United States Technical Program Manager IRC294357"
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/7868762": {
+    "first_seen": "2026-05-09T07:04:13.845715",
+    "company": "Testlio",
+    "title": "Freelance Software Tester in the USAtags.newUnited States",
+    "fit_score": 8,
+    "alerted": true
   }
 }
