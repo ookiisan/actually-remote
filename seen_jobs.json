@@ -530,5 +530,30 @@
     "title": "Freelance Software Tester in the USAtags.newUnited States",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.toptal.com/careers/senior-qa-automation-engineer": {
+    "first_seen": "2026-05-10T07:22:24.650990",
+    "company": "Toptal",
+    "title": "Senior QA Automation EngineerApply",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5989185004?gh_jid=5989185004": {
+    "status": "skipped_location",
+    "title": "Product Manager, AI Growth"
+  },
+  "https://careers.getworkflex.com/en-GB/people/3414819-lilit-ohanyan": {
+    "first_seen": "2026-05-10T07:23:22.945855",
+    "company": "WorkFlex",
+    "title": "Lilit Ohanyan Senior Product Manager",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://careers.getworkflex.com/en-GB/people/3799082-lana-asatryan": {
+    "first_seen": "2026-05-10T07:23:39.800080",
+    "company": "WorkFlex",
+    "title": "Lana Asatryan Senior Product Manager",
+    "fit_score": 9,
+    "alerted": true
   }
 }
