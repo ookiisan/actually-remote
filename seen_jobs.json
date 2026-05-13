@@ -559,5 +559,30 @@
   "https://www.awin.com/gb/careers/vacancies/7724542003": {
     "status": "skipped_location",
     "title": "Product Manager, Publishers (m/f/d)"
+  },
+  "https://growe.com/career/vacancy/4845111101": {
+    "first_seen": "2026-05-13T07:45:58.020678",
+    "company": "Growe",
+    "title": "Middle Manual QA Engineer",
+    "fit_score": 1,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/5834919004": {
+    "first_seen": "2026-05-13T07:46:48.937386",
+    "company": "Hightouch",
+    "title": "Lead Product Manager, Agentic PersonalizationSF, NY, Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.hygraph.com/o/product-manager-fmd-berlin-germany": {
+    "status": "skipped_location",
+    "title": "Product Manager (f/m/d) - Berlin, Germany"
+  },
+  "https://careers.koinly.io/jobs/7724408-product-manager-defi-integrations": {
+    "first_seen": "2026-05-13T07:47:56.350741",
+    "company": "Koinly",
+    "title": "Product Manager, Defi Integrations",
+    "fit_score": 6,
+    "alerted": false
   }
 }
