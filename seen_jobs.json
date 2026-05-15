@@ -584,5 +584,20 @@
     "title": "Product Manager, Defi Integrations",
     "fit_score": 6,
     "alerted": false
+  },
+  "https://jobs.ashbyhq.com/paddle/cde17e70-5be2-4b2f-86c0-26591c168cec": {
+    "status": "skipped_location",
+    "title": "ProductStaff Product ManagerLondon"
+  },
+  "https://careers.phorest.com/en-GB/people/2199700-helen-devenney": {
+    "status": "skipped_location",
+    "title": "Helen Devenney Associate Product Manager"
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7856568": {
+    "first_seen": "2026-05-15T07:49:09.195560",
+    "company": "Planet",
+    "title": "Product Manager, TanagerNewUnited States, Remote",
+    "fit_score": 8,
+    "alerted": true
   }
 }
