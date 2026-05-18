@@ -606,5 +606,19 @@
     "title": "Liva Bileskalne Strategic Project Manager",
     "fit_score": 7,
     "alerted": true
+  },
+  "https://job-boards.greenhouse.io/alpaca/jobs/5994474004": {
+    "first_seen": "2026-05-18T08:40:19.485117",
+    "company": "Alpaca",
+    "title": "Product Manager, CryptoNewRemote - North America (EST)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7921016": {
+    "first_seen": "2026-05-18T08:41:25.160257",
+    "company": "Bloomreach",
+    "title": "Staff Quality Assurance Engineer (Personify team)",
+    "fit_score": 2,
+    "alerted": false
   }
 }
