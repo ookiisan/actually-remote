@@ -620,5 +620,16 @@
     "title": "Staff Quality Assurance Engineer (Personify team)",
     "fit_score": 2,
     "alerted": false
+  },
+  "https://careers.ebury.com/company/careers/job?gh_jid=4864713101": {
+    "first_seen": "2026-05-19T08:21:49.362414",
+    "company": "Ebury",
+    "title": "Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://flourish.studio/en/jobs/6000000001073246/senior-program-manager-content-strategy/": {
+    "status": "failed_jd_fetch",
+    "title": "Senior Program Manager (Content Strategy)"
   }
 }
