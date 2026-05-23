@@ -631,5 +631,12 @@
   "https://flourish.studio/en/jobs/6000000001073246/senior-program-manager-content-strategy/": {
     "status": "failed_jd_fetch",
     "title": "Senior Program Manager (Content Strategy)"
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/7943818": {
+    "first_seen": "2026-05-23T07:26:58.461465",
+    "company": "Testlio",
+    "title": "Freelance Software Tester (Saudi Arabia)tags.newRemote in EMEA",
+    "fit_score": 3,
+    "alerted": false
   }
 }
