@@ -638,5 +638,20 @@
     "title": "Freelance Software Tester (Saudi Arabia)tags.newRemote in EMEA",
     "fit_score": 3,
     "alerted": false
+  },
+  "https://www.toptal.com/careers/senior-product-manager": {
+    "status": "ai_failed",
+    "title": "Senior Product ManagerApply"
+  },
+  "https://boards.greenhouse.io/figma/jobs/5998604004?gh_jid=5998604004": {
+    "first_seen": "2026-05-24T07:46:22.145946",
+    "company": "Visly",
+    "title": "Brand Marketing Program Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.getworkflex.com/jobs/3520039-product-manager-german-speaker": {
+    "status": "ai_failed",
+    "title": "Product Manager (German Speaker)"
   }
 }
