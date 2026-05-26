@@ -653,5 +653,9 @@
   "https://careers.getworkflex.com/jobs/3520039-product-manager-german-speaker": {
     "status": "ai_failed",
     "title": "Product Manager (German Speaker)"
+  },
+  "https://flourish.studio/en/jobs/6000000001102641/product-manager-pexels/": {
+    "status": "failed_jd_fetch",
+    "title": "Product Manager - Pexels"
   }
 }
