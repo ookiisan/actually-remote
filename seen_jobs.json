@@ -657,5 +657,24 @@
   "https://flourish.studio/en/jobs/6000000001102641/product-manager-pexels/": {
     "status": "failed_jd_fetch",
     "title": "Product Manager - Pexels"
+  },
+  "https://jobs.ashbyhq.com/paddle/c4e3ff9c-5fd1-4e52-a3ab-4d09b5babdea": {
+    "status": "skipped_location",
+    "title": "ProductSenior Product Manager (Retain)UK, Ireland, Portugal"
+  },
+  "https://careers.phorest.com/en-GB/people/1265458-david-molloy": {
+    "status": "skipped_location",
+    "title": "David Molloy Senior QA Engineer"
+  },
+  "https://jobs.lever.co/qonto/c087ac46-54ac-4227-b9ef-5a377c35b9ab": {
+    "first_seen": "2026-05-29T08:38:52.514794",
+    "company": "Qonto",
+    "title": "Growth Project ManagerHybrid — Full-timeParis",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/reddit/jobs/7396638": {
+    "status": "skipped_location",
+    "title": "Program Manager, Vendor Operations London, United Kingdom"
   }
 }
