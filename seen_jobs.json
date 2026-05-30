@@ -676,5 +676,26 @@
   "https://job-boards.greenhouse.io/reddit/jobs/7396638": {
     "status": "skipped_location",
     "title": "Program Manager, Vendor Operations London, United Kingdom"
+  },
+  "https://www.getstoryteller.com/careers/client-delivery-manager-latam": {
+    "first_seen": "2026-05-30T07:36:09.389585",
+    "company": "Storyteller",
+    "title": "Client Delivery ManagerClient DeliveryRemote - LATAM",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.getstoryteller.com/careers/client-delivery-manager-canada": {
+    "first_seen": "2026-05-30T07:36:25.060879",
+    "company": "Storyteller",
+    "title": "Client Delivery ManagerClient DeliveryRemote - Canada",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/7954586": {
+    "first_seen": "2026-05-30T07:37:20.201797",
+    "company": "Testlio",
+    "title": "Corporate Program ManagerNewREMOTE in United States",
+    "fit_score": 8,
+    "alerted": true
   }
 }
