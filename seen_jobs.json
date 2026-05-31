@@ -697,5 +697,12 @@
     "title": "Corporate Program ManagerNewREMOTE in United States",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://careers.workflex.com/jobs/3520039-product-manager-german-speaker": {
+    "first_seen": "2026-05-31T08:10:03.189659",
+    "company": "WorkFlex",
+    "title": "Product Manager (German Speaker)",
+    "fit_score": 7,
+    "alerted": true
   }
 }
