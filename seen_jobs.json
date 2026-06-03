@@ -715,5 +715,12 @@
   "https://flourish.studio/en/jobs/6000000001118111/ai-technical-program-manager-localisation/": {
     "status": "failed_jd_fetch",
     "title": "AI Technical Program Manager (Localisation)"
+  },
+  "https://job-boards.greenhouse.io/humansignal/jobs/6007734004": {
+    "first_seen": "2026-06-03T09:22:29.463488",
+    "company": "HumanSignal",
+    "title": "Technical Program Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
