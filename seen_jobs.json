@@ -722,5 +722,12 @@
     "title": "Technical Program Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.greenhouse.io/nearform/jobs/7651083003": {
+    "first_seen": "2026-06-04T08:44:01.457192",
+    "company": "Nearform",
+    "title": "Senior Product Manager (FTC, Remote, UK)UK",
+    "fit_score": 9,
+    "alerted": true
   }
 }
