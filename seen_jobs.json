@@ -729,5 +729,16 @@
     "title": "Senior Product Manager (FTC, Remote, UK)UK",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://jobs.opera.com/jobs/7460458-senior-product-manager-performance-advertising": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Performance Advertising"
+  },
+  "https://remote.com/openings/7728853003": {
+    "first_seen": "2026-06-05T08:40:25.383146",
+    "company": "Remote",
+    "title": "Occupational Health and Safety Project manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
