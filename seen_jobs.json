@@ -740,5 +740,33 @@
     "title": "Occupational Health and Safety Project manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c": {
+    "first_seen": "2026-06-06T07:41:10.728797",
+    "company": "Supabase",
+    "title": "Product Manager - InfrastructureRemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/636481f3-dc9e-4a9d-999f-06f87e173cc9": {
+    "first_seen": "2026-06-06T07:41:34.089424",
+    "company": "Supabase",
+    "title": "Product Manager - MultigresRemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c": {
+    "first_seen": "2026-06-06T07:42:01.222738",
+    "company": "Supabase",
+    "title": "Product Manager - AI RemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/184c3ad5-5d5f-44a1-98f7-65ff6f287b2f": {
+    "first_seen": "2026-06-06T07:42:20.191716",
+    "company": "Supabase",
+    "title": "Product Manager - InterfacesRemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
   }
 }
