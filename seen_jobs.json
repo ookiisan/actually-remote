@@ -768,5 +768,23 @@
     "title": "Product Manager - InterfacesRemoteApply for position",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/6009613004?gh_jid=6009613004": {
+    "first_seen": "2026-06-07T08:19:03.726876",
+    "company": "Visly",
+    "title": "Technical Program Manager, Data Science",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/6008343004?gh_jid=6008343004": {
+    "status": "ai_failed",
+    "title": "Program Manager, Voice of the Customer"
+  },
+  "https://careers.workflex.com/en-GB/people/3799082-lana-asatryan": {
+    "first_seen": "2026-06-07T08:19:42.054056",
+    "company": "WorkFlex",
+    "title": "Lana Asatryan Senior Product Manager",
+    "fit_score": 9,
+    "alerted": true
   }
 }
