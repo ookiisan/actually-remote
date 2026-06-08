@@ -786,5 +786,16 @@
     "title": "Lana Asatryan Senior Product Manager",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.awin.com/gb/careers/vacancies/7762209003": {
+    "first_seen": "2026-06-08T09:17:31.803595",
+    "company": "AWIN",
+    "title": "Project Manager (f/m/d)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://cast.ai/careers/apply/?gh_jid=4267145009": {
+    "status": "ai_failed",
+    "title": "Product Manager (Europe remote)"
   }
 }
