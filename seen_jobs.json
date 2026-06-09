@@ -797,5 +797,9 @@
   "https://cast.ai/careers/apply/?gh_jid=4267145009": {
     "status": "ai_failed",
     "title": "Product Manager (Europe remote)"
+  },
+  "https://flourish.studio/en/jobs/6000000001129778/product-manager-emea/": {
+    "status": "failed_jd_fetch",
+    "title": "Product Manager - EMEA"
   }
 }
