@@ -801,5 +801,65 @@
   "https://flourish.studio/en/jobs/6000000001129778/product-manager-emea/": {
     "status": "failed_jd_fetch",
     "title": "Product Manager - EMEA"
+  },
+  "https://careers.phorest.com/jobs/7872244-talent-development-program-manager": {
+    "status": "skipped_location",
+    "title": "Talent Development Program Manager"
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7374533": {
+    "first_seen": "2026-06-12T08:54:34.909002",
+    "company": "Planet",
+    "title": "D&I Program Manager, Professional ServicesNetherlands, Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7439062": {
+    "first_seen": "2026-06-12T08:54:51.443423",
+    "company": "Planet",
+    "title": "D&I Program Manager, Professional ServicesGermany, Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7490275": {
+    "first_seen": "2026-06-12T08:55:11.727528",
+    "company": "Planet",
+    "title": "D&I Program Manager, Professional ServicesUnited Kingdom, Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7490266": {
+    "first_seen": "2026-06-12T08:55:28.217623",
+    "company": "Planet",
+    "title": "D&I Program Manager, Professional ServicesNewLjubljana, Slovenia",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7490269": {
+    "first_seen": "2026-06-12T08:55:49.916778",
+    "company": "Planet",
+    "title": "D&I Program Manager, Professional ServicesNewGraz, Austria",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.lever.co/qonto/879e3415-e926-4397-81c6-0546032877d8": {
+    "first_seen": "2026-06-12T08:56:53.547134",
+    "company": "Qonto",
+    "title": "Lead AML Project ManagerHybrid — Full-timeParis",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/6909477003": {
+    "first_seen": "2026-06-12T08:57:45.248563",
+    "company": "Remote",
+    "title": "Senior Product Manager, Remote Build",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7748016003": {
+    "first_seen": "2026-06-12T08:58:06.457849",
+    "company": "Remote",
+    "title": "Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
