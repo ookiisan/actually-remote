@@ -861,5 +861,16 @@
     "title": "Product Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.shopify.com/careers/senior-project-manager-real-estate-18-month-contract_6738f2e2-3da3-4dd5-a6b2-ccbe2ecd3863": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager, Real Estate (18-month Contract)Toronto"
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4748134101": {
+    "first_seen": "2026-06-13T08:17:02.442297",
+    "company": "SportyGroup",
+    "title": "Product ManagerBrazil - Remote",
+    "fit_score": 5,
+    "alerted": false
   }
 }
