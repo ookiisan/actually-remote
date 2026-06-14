@@ -872,5 +872,19 @@
     "title": "Product ManagerBrazil - Remote",
     "fit_score": 5,
     "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004": {
+    "first_seen": "2026-06-14T08:37:22.614322",
+    "company": "Visly",
+    "title": "Technical Program Manager, Infrastructure",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.workflex.com/en-GB/people/3298782-liva-bileskalne": {
+    "first_seen": "2026-06-14T08:38:04.828539",
+    "company": "WorkFlex",
+    "title": "Liva Bileskalne Strategic Project Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
