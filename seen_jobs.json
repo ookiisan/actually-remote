@@ -893,5 +893,23 @@
     "title": "Senior Product ManagerRemote, EMEA",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://flourish.studio/en/jobs/6000000001155443/pexels-product-manager/": {
+    "status": "failed_jd_fetch",
+    "title": "Pexels Product Manager"
+  },
+  "https://job-boards.greenhouse.io/gitlab/jobs/8581737002": {
+    "first_seen": "2026-06-17T09:25:48.405709",
+    "company": "GitLab",
+    "title": "QA Manager, Enterprise Technology and AINewRemote, Bangalore",
+    "fit_score": 3,
+    "alerted": false
+  },
+  "https://kilo.co/career/qa-engineer/": {
+    "first_seen": "2026-06-17T09:27:42.665148",
+    "company": "Kilo Health",
+    "title": "QA Engineer Vilnius Tech Kiloverse Full-time Mid",
+    "fit_score": 3,
+    "alerted": false
   }
 }
