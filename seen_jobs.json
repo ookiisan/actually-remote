@@ -919,5 +919,9 @@
   "https://jobs.ashbyhq.com/notion/c2299d80-c3a5-45fa-bf49-29372a4d9aec": {
     "status": "skipped_location",
     "title": "Employee Experience Program ManagerSan Francisco, California"
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/7979301": {
+    "status": "ai_failed",
+    "title": "Technical Program Manager, GTM OpsNewSan Francisco, CA"
   }
 }
