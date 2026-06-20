@@ -923,5 +923,12 @@
   "https://job-boards.greenhouse.io/planetlabs/jobs/7979301": {
     "status": "ai_failed",
     "title": "Technical Program Manager, GTM OpsNewSan Francisco, CA"
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4726031101": {
+    "first_seen": "2026-06-20T08:17:43.499527",
+    "company": "SportyGroup",
+    "title": "QA Automation EngineerGlobal - Remote",
+    "fit_score": 3,
+    "alerted": false
   }
 }
