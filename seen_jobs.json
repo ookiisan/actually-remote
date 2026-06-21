@@ -930,5 +930,19 @@
     "title": "QA Automation EngineerGlobal - Remote",
     "fit_score": 3,
     "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/6092802004?gh_jid=6092802004": {
+    "first_seen": "2026-06-21T08:54:14.541488",
+    "company": "Visly",
+    "title": "Product Manager, CMS",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://saasglobal.teamtailor.com/jobs/7451461-senior-product-manager": {
+    "first_seen": "2026-06-21T08:54:39.359586",
+    "company": "WP Media",
+    "title": "Senior Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
