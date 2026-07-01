@@ -955,5 +955,19 @@
   "https://flourish.studio/en/jobs/6000000001172568/senior-qa-engineer-pro-design/": {
     "status": "failed_jd_fetch",
     "title": "Senior QA Engineer - Pro Design"
+  },
+  "https://job-boards.greenhouse.io/netlify/jobs/8603652002": {
+    "first_seen": "2026-07-01T08:44:20.263724",
+    "company": "Gatsby",
+    "title": "Principal Product Manager (Growth)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/netlify/jobs/8603630002": {
+    "first_seen": "2026-07-01T08:44:39.637078",
+    "company": "Gatsby",
+    "title": "Staff Product Manager (Accounts & Billing)",
+    "fit_score": 7,
+    "alerted": true
   }
 }
