@@ -969,5 +969,30 @@
     "title": "Staff Product Manager (Accounts & Billing)",
     "fit_score": 7,
     "alerted": true
+  },
+  "https://www.pandadoc.com/careers/principal-product-manager-mobile-ui-platform-eu/": {
+    "first_seen": "2026-07-03T07:55:29.279254",
+    "company": "PandaDoc",
+    "title": "Principal Product Manager, Mobile & UI Platform",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.lever.co/qonto/4442a8c2-a644-4880-a1da-dda5830ff399": {
+    "first_seen": "2026-07-03T07:57:12.835479",
+    "company": "Qonto",
+    "title": "Website Project Manager InternHybrid — InternshipBerlin",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/reddit/jobs/8026419": {
+    "status": "skipped_location",
+    "title": "Product Manager, SMB Growth San Francisco, CA"
+  },
+  "https://remote.com/openings/7791136003": {
+    "first_seen": "2026-07-03T07:58:03.387298",
+    "company": "Remote",
+    "title": "Senior Product Manager, HRIS Integrations",
+    "fit_score": 8,
+    "alerted": true
   }
 }
