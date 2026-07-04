@@ -994,5 +994,16 @@
     "title": "Senior Product Manager, HRIS Integrations",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4726320101": {
+    "first_seen": "2026-07-04T07:37:13.153957",
+    "company": "SportyGroup",
+    "title": "Project ManagerNewGlobal - Remote",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://lifeatspotify.com/jobs/senior-product-manager-design-systems": {
+    "status": "skipped_location",
+    "title": "ProductSenior Product Manager, Design SystemsApply now"
   }
 }
