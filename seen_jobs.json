@@ -1005,5 +1005,64 @@
   "https://lifeatspotify.com/jobs/senior-product-manager-design-systems": {
     "status": "skipped_location",
     "title": "ProductSenior Product Manager, Design SystemsApply now"
+  },
+  "https://jobs.lever.co/yuno/11b6f679-ed9b-4353-ad1c-5db60771494a": {
+    "first_seen": "2026-07-05T07:52:59.713688",
+    "company": "Yuno",
+    "title": "Product OwnerEurope",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7620909003": {
+    "status": "skipped_location",
+    "title": "Senior Staff Program Manager"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7659828003": {
+    "status": "skipped_location",
+    "title": "Staff Program Manager - Central Engineering Operations"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=6645141003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Observability & Monitoring"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=6648548003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Observability & Monitoring"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7535819003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Enterprise Platform"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7547715003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Enterprise Platform"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7559181003": {
+    "status": "skipped_location",
+    "title": "Product Manager - Integrations"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7735002003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Monetization Platform"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7735422003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Growth"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7786318003": {
+    "status": "skipped_location",
+    "title": "Product Manager - Integrations"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7787885003": {
+    "status": "skipped_location",
+    "title": "Product Manager - Fusion"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7790909003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager- Developer Experience"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7758876003": {
+    "status": "skipped_location",
+    "title": "Staff Technical Product Manager, Quote to Order"
   }
 }
