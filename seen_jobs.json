@@ -1064,5 +1064,16 @@
   "https://www.fivetran.com/careers/job?gh_jid=7758876003": {
     "status": "skipped_location",
     "title": "Staff Technical Product Manager, Quote to Order"
+  },
+  "https://apply.workable.com/optimile/j/CF19ADEA63": {
+    "status": "skipped_location",
+    "title": "Product Manager: Data & AI"
+  },
+  "https://remote.com/openings/7792448003": {
+    "first_seen": "2026-07-10T08:17:10.174896",
+    "company": "Remote",
+    "title": "Senior Product Manager, Reporting & Insights",
+    "fit_score": 8,
+    "alerted": true
   }
 }
