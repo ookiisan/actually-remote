@@ -1096,5 +1096,30 @@
     "title": "Senior Product Manager, Acquisition",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/5991338004?gh_jid=5991338004": {
+    "status": "skipped_location",
+    "title": "Product Manager - Figma Weave (Tel-Aviv, Israel)"
+  },
+  "https://jobs.lever.co/yuno/d331b1f7-0e2b-493a-8bcd-9dd8f4efab56": {
+    "first_seen": "2026-07-19T07:23:50.315966",
+    "company": "Yuno",
+    "title": "Technical Product Manager - Client ExperienceAmsterdam",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://jobs.lever.co/yuno/d57cd987-7689-4d5c-a491-38209349105b": {
+    "first_seen": "2026-07-19T07:24:07.558733",
+    "company": "Yuno",
+    "title": "Technical Product Manager - Money and RiskAmsterdam",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.lever.co/yuno/6027a703-57ea-41cb-b55b-b3efec6598a6": {
+    "first_seen": "2026-07-19T07:24:24.993193",
+    "company": "Yuno",
+    "title": "Technical Product Manager - RAILSAmsterdam",
+    "fit_score": 9,
+    "alerted": true
   }
 }
