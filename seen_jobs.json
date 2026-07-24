@@ -1129,5 +1129,27 @@
   "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer": {
     "status": "skipped_location",
     "title": "Mobile QA Engineer"
+  },
+  "https://apply.workable.com/optimile/j/49004BB100": {
+    "status": "skipped_location",
+    "title": "Product Owner"
+  },
+  "https://careers.phorest.com/en-GB/people/2131869-kohil-namdeo": {
+    "status": "skipped_location",
+    "title": "Kohil Namdeo QA Engineer"
+  },
+  "https://jobs.lever.co/qonto/73b520ea-cca1-4b29-a9af-ddce38780c90": {
+    "first_seen": "2026-07-24T07:27:13.665913",
+    "company": "Qonto",
+    "title": "Partnerships Growth Ops Project ManagerHybrid — Full-timeParis",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7800935003": {
+    "first_seen": "2026-07-24T07:27:56.921399",
+    "company": "Remote",
+    "title": "Product Manager, Billing Platform",
+    "fit_score": 8,
+    "alerted": true
   }
 }
