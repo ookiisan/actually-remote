@@ -1151,5 +1151,19 @@
     "title": "Product Manager, Billing Platform",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4726304101": {
+    "first_seen": "2026-07-25T07:10:26.548929",
+    "company": "SportyGroup",
+    "title": "EU Product ManagerEurope - Remote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441": {
+    "first_seen": "2026-07-25T07:11:09.085405",
+    "company": "Supabase",
+    "title": "Product Manager - MarketplaceRemoteApply for position",
+    "fit_score": 8,
+    "alerted": true
   }
 }
