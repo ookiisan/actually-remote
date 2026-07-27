@@ -1172,5 +1172,19 @@
     "title": "Product Manager, Acquisition",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.awin.com/gb/careers/vacancies/7812585003": {
+    "first_seen": "2026-07-27T08:21:06.171462",
+    "company": "AWIN",
+    "title": "Product Manager, Publisher Payments (f/m/d)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://accessiway.teamtailor.com/jobs/8110459-project-manager": {
+    "first_seen": "2026-07-27T08:21:27.380003",
+    "company": "Accessiway",
+    "title": "Project Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
