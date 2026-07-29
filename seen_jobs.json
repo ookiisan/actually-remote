@@ -1186,5 +1186,23 @@
     "title": "Project Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.greenhouse.io/gitlab/jobs/8648964002": {
+    "status": "skipped_location",
+    "title": "Enterprise QA Engineer, Salesforce NewBangalore, India"
+  },
+  "https://www.globallogic.com/careers/product-manager-irc300850/": {
+    "first_seen": "2026-07-29T07:38:01.368796",
+    "company": "GlobalLogic",
+    "title": "United States Product Manager IRC300850",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.globallogic.com/careers/senior-product-manager-irc299888/": {
+    "first_seen": "2026-07-29T07:38:25.159283",
+    "company": "GlobalLogic",
+    "title": "United States Senior Product Manager IRC299888",
+    "fit_score": 6,
+    "alerted": false
   }
 }
