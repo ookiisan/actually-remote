@@ -1204,5 +1204,23 @@
     "title": "United States Senior Product Manager IRC299888",
     "fit_score": 6,
     "alerted": false
+  },
+  "https://careers.phorest.com/en-GB/people/1634516-faelan-herriott": {
+    "status": "skipped_location",
+    "title": "Faelan Herriott Product Manager"
+  },
+  "https://remote.com/openings/7814948003": {
+    "first_seen": "2026-07-31T07:46:28.271784",
+    "company": "Remote",
+    "title": "Senior Product Manager, Fraud and Compliance",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7817061003": {
+    "first_seen": "2026-07-31T07:46:47.243459",
+    "company": "Remote",
+    "title": "Product Manager, Contractor Management",
+    "fit_score": 8,
+    "alerted": true
   }
 }
