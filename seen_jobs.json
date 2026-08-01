@@ -1222,5 +1222,19 @@
     "title": "Product Manager, Contractor Management",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.shopify.com/careers/professional-services-delivery-manager_32132c55-3c8c-4695-b117-477fe97629aa": {
+    "first_seen": "2026-08-01T07:23:14.968157",
+    "company": "Shopify",
+    "title": "Professional Services Delivery ManagerRemote - Americas",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4725325101": {
+    "first_seen": "2026-08-01T07:23:59.702743",
+    "company": "SportyGroup",
+    "title": "Senior QA EngineerGlobal - Remote",
+    "fit_score": 2,
+    "alerted": false
   }
 }
