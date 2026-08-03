@@ -1236,5 +1236,26 @@
     "title": "Senior QA EngineerGlobal - Remote",
     "fit_score": 2,
     "alerted": false
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7893319": {
+    "first_seen": "2026-08-03T08:21:15.553248",
+    "company": "Bloomreach",
+    "title": "Senior Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7893318": {
+    "first_seen": "2026-08-03T08:21:35.659471",
+    "company": "Bloomreach",
+    "title": "Senior Product Manager",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/7893321": {
+    "first_seen": "2026-08-03T08:21:54.878832",
+    "company": "Bloomreach",
+    "title": "Senior Product Manager",
+    "fit_score": 7,
+    "alerted": true
   }
 }
