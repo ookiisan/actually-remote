@@ -1264,5 +1264,23 @@
     "title": "Casino Product Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://jobs.ashbyhq.com/paddle/56ff8f29-ad57-4553-821c-bc0a192bee13": {
+    "status": "skipped_location",
+    "title": "FinanceBusiness AnalystUK, Portugal, Netherlands, Ireland"
+  },
+  "https://jobs.lever.co/qonto/564e03fe-3419-40e7-8b4a-6e229b323ca6": {
+    "first_seen": "2026-08-07T06:05:48.018743",
+    "company": "Qonto",
+    "title": "Regulatory Affairs & Project ManagerHybrid — Full-timeParis",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.lever.co/qonto/043279bd-c543-4e54-bffa-094c77f4c97b": {
+    "first_seen": "2026-08-07T06:06:08.519840",
+    "company": "Qonto",
+    "title": "Senior Operations Project ManagerHybrid — Full-timeParis",
+    "fit_score": 8,
+    "alerted": true
   }
 }
