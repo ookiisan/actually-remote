@@ -1282,5 +1282,23 @@
     "title": "Senior Operations Project ManagerHybrid — Full-timeParis",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.shopify.com/careers/senior-project-manager-real-estate_6738f2e2-3da3-4dd5-a6b2-ccbe2ecd3863": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager, Real Estate Toronto"
+  },
+  "https://job-boards.greenhouse.io/sourcegraph91/jobs/6113147004": {
+    "first_seen": "2026-08-08T05:35:15.097750",
+    "company": "Sourcegraph",
+    "title": "Product Manager [IC4] Remote Apply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8103306": {
+    "first_seen": "2026-08-08T05:36:27.344034",
+    "company": "Testlio",
+    "title": "Freelance Software Tester (Infinitum/Telcel Users)NewMexico",
+    "fit_score": 1,
+    "alerted": false
   }
 }
