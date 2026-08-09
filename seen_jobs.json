@@ -1300,5 +1300,13 @@
     "title": "Freelance Software Tester (Infinitum/Telcel Users)NewMexico",
     "fit_score": 1,
     "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/6130540004?gh_jid=6130540004": {
+    "status": "skipped_location",
+    "title": "Program Manager, Scale Onboarding (London, United Kingdom)"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7818258003": {
+    "status": "skipped_location",
+    "title": "Program Manager, Ways of Working"
   }
 }
