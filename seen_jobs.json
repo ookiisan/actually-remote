@@ -1308,5 +1308,28 @@
   "https://www.fivetran.com/careers/job?gh_jid=7818258003": {
     "status": "skipped_location",
     "title": "Program Manager, Ways of Working"
+  },
+  "https://www.awin.com/gb/careers/vacancies/7586783003": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager (f/m/d)"
+  },
+  "https://www.awin.com/gb/careers/vacancies/7798485003": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager (f/m/d)"
+  },
+  "https://www.awin.com/gb/careers/vacancies/7798484003": {
+    "first_seen": "2026-08-10T06:06:25.545152",
+    "company": "AWIN",
+    "title": "Senior Project Manager (f/m/d)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.awin.com/gb/careers/vacancies/7798483003": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager (f/m/d)"
+  },
+  "https://www.awin.com/gb/careers/vacancies/7798482003": {
+    "status": "skipped_location",
+    "title": "Senior Project Manager (f/m/d)"
   }
 }
