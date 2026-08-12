@@ -1331,5 +1331,23 @@
   "https://www.awin.com/gb/careers/vacancies/7798482003": {
     "status": "skipped_location",
     "title": "Senior Project Manager (f/m/d)"
+  },
+  "https://www.globallogic.com/careers/shopify-product-manager-irc302022/": {
+    "status": "failed_jd_fetch",
+    "title": "United States Shopify Product Manager IRC302022"
+  },
+  "https://www.globallogic.com/careers/complex-delivery-program-manager-irc297187/": {
+    "first_seen": "2026-08-12T06:07:33.034709",
+    "company": "GlobalLogic",
+    "title": "United States Complex Delivery Program Manager IRC297187",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://growe.com/career/vacancy/4949597101": {
+    "first_seen": "2026-08-12T06:07:58.756330",
+    "company": "Growe",
+    "title": "Application Security Engineer / Penetration tester",
+    "fit_score": 1,
+    "alerted": false
   }
 }
