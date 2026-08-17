@@ -1385,5 +1385,19 @@
   "https://www.fivetran.com/careers/job?gh_jid=7865163003": {
     "status": "skipped_location",
     "title": "Senior Product Manager, Enterprise & Deployments"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/8119107": {
+    "first_seen": "2026-08-17T05:27:12.596199",
+    "company": "Bloomreach",
+    "title": "AI Program Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/8119108": {
+    "first_seen": "2026-08-17T05:27:32.864253",
+    "company": "Bloomreach",
+    "title": "AI Program Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
