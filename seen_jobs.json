@@ -1399,5 +1399,19 @@
     "title": "AI Program Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.globallogic.com/careers/product-manager-irc302581/": {
+    "first_seen": "2026-08-19T05:20:33.917678",
+    "company": "GlobalLogic",
+    "title": "United States Product Manager IRC302581",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.globallogic.com/careers/product-manager-irc302540/": {
+    "first_seen": "2026-08-19T05:20:51.844250",
+    "company": "GlobalLogic",
+    "title": "United States Product Manager IRC302540",
+    "fit_score": 8,
+    "alerted": true
   }
 }
