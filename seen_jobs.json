@@ -1413,5 +1413,12 @@
     "title": "United States Product Manager IRC302540",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.mailerlite.com/jobs/technical-product-manager": {
+    "first_seen": "2026-08-20T05:21:51.280271",
+    "company": "MailerLite",
+    "title": "Technical Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
