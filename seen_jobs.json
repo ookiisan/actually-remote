@@ -1420,5 +1420,33 @@
     "title": "Technical Product Manager",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://remote.com/openings/7831380003": {
+    "first_seen": "2026-08-21T05:25:00.133155",
+    "company": "Remote",
+    "title": "Senior Product Manager, APIs",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://remote.com/openings/7885031003": {
+    "first_seen": "2026-08-21T05:25:25.030479",
+    "company": "Remote",
+    "title": "Product Manager, Contractor Management",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7885095003": {
+    "first_seen": "2026-08-21T05:25:43.874293",
+    "company": "Remote",
+    "title": "Product Manager, Billing Platform",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://remote.com/openings/7885155003": {
+    "first_seen": "2026-08-21T05:26:02.754598",
+    "company": "Remote",
+    "title": "Senior Product Manager, Reporting & Insights",
+    "fit_score": 8,
+    "alerted": true
   }
 }
