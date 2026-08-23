@@ -1469,5 +1469,54 @@
     "title": "Founding Technical Program ManagerRemote, AnywhereApply for position",
     "fit_score": 6,
     "alerted": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004": {
+    "first_seen": "2026-08-23T05:20:06.037625",
+    "company": "Visly",
+    "title": "Strategic Program Manager, Information Security",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/webflow/jobs/8097442": {
+    "first_seen": "2026-08-23T05:20:34.884151",
+    "company": "Webflow",
+    "title": "Senior Product Manager, Code",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.wholegraindigital.com/jobs#project-manager": {
+    "first_seen": "2026-08-23T05:20:56.745715",
+    "company": "Wholegrain Digital",
+    "title": "Project Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7859686003": {
+    "status": "skipped_location",
+    "title": "Staff Technical Program Manager"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7868539003": {
+    "status": "skipped_location",
+    "title": "Technical Program Manager"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7894565003": {
+    "status": "skipped_location",
+    "title": "Technical Program Manager, Security"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7865248003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Enterprise & Deployments"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7894333003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Developer Experience"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7894337003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Developer Experience"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7894342003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Developer Experience"
   }
 }
