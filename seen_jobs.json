@@ -1518,5 +1518,40 @@
   "https://www.fivetran.com/careers/job?gh_jid=7894342003": {
     "status": "skipped_location",
     "title": "Staff Product Manager, Developer Experience"
+  },
+  "https://job-boards.greenhouse.io/customerio/jobs/8100087": {
+    "first_seen": "2026-08-25T05:23:27.359149",
+    "company": "Customer.io",
+    "title": "Senior Product ManagerAmericasRemoteApply",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/customerio/jobs/8126049": {
+    "first_seen": "2026-08-25T05:23:43.390763",
+    "company": "Customer.io",
+    "title": "Product ManagerAmericasRemoteApply",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/distrokid/jobs/4361054009": {
+    "first_seen": "2026-08-25T05:24:33.036060",
+    "company": "DistroKid",
+    "title": "Growth Product ManagerRemote - European Union",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/distrokid/jobs/4361055009": {
+    "first_seen": "2026-08-25T05:24:51.660954",
+    "company": "DistroKid",
+    "title": "Growth Product ManagerRemote - Latin America",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/distrokid/jobs/4361067009": {
+    "first_seen": "2026-08-25T05:25:07.166512",
+    "company": "DistroKid",
+    "title": "Growth Product ManagerRemote - United Kingdom",
+    "fit_score": 8,
+    "alerted": true
   }
 }
