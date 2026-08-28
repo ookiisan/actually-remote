@@ -1553,5 +1553,16 @@
     "title": "Growth Product ManagerRemote - United Kingdom",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://remote.com/openings/7977952003": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Benefits"
+  },
+  "https://remote.com/openings/7915883003": {
+    "first_seen": "2026-08-28T17:01:22.920914",
+    "company": "Remote",
+    "title": "GTM Product Manager - Marketing Operations",
+    "fit_score": 8,
+    "alerted": true
   }
 }
