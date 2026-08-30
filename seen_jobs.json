@@ -1564,5 +1564,28 @@
     "title": "GTM Product Manager - Marketing Operations",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/6135395004?gh_jid=6135395004": {
+    "status": "ai_failed",
+    "title": "Design Program Manager, Context Platform"
+  },
+  "https://boards.greenhouse.io/figma/jobs/6173031004?gh_jid=6173031004": {
+    "first_seen": "2026-08-30T10:12:58.358550",
+    "company": "Visly",
+    "title": "Immigration Program Manager",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7735295003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Connectors"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7818286003": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager - Adapters"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7975436003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager - dbt v2"
   }
 }
