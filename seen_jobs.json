@@ -1587,5 +1587,12 @@
   "https://www.fivetran.com/careers/job?gh_jid=7975436003": {
     "status": "skipped_location",
     "title": "Staff Product Manager - dbt v2"
+  },
+  "https://www.mailerlite.com/jobs/pm": {
+    "first_seen": "2026-09-03T09:18:56.516545",
+    "company": "MailerLite",
+    "title": "Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
