@@ -1601,5 +1601,23 @@
     "title": "Website Product Manager - GrowthHybrid — Full-timeParis",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4968273101": {
+    "first_seen": "2026-09-05T08:43:17.264282",
+    "company": "SportyGroup",
+    "title": "Hybrid QA EngineerNewIndia - Remote",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/4966480101": {
+    "first_seen": "2026-09-05T08:43:33.228610",
+    "company": "SportyGroup",
+    "title": "Product ManagerNewIndia - Remote",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://lifeatspotify.com/jobs/senior-product-manager-audiobooks-format-foundations": {
+    "status": "skipped_location",
+    "title": "ProductSenior Product Manager, Audiobooks Format FoundationsApply now"
   }
 }
