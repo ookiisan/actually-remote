@@ -1619,5 +1619,16 @@
   "https://lifeatspotify.com/jobs/senior-product-manager-audiobooks-format-foundations": {
     "status": "skipped_location",
     "title": "ProductSenior Product Manager, Audiobooks Format FoundationsApply now"
+  },
+  "https://boards.greenhouse.io/figma/jobs/6179155004?gh_jid=6179155004": {
+    "first_seen": "2026-09-06T09:02:36.150563",
+    "company": "Visly",
+    "title": "Technical Program Manager",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7818316003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager - Monetization Platform"
   }
 }
