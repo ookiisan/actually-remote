@@ -1630,5 +1630,12 @@
   "https://www.fivetran.com/careers/job?gh_jid=7818316003": {
     "status": "skipped_location",
     "title": "Staff Product Manager - Monetization Platform"
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/8169004": {
+    "first_seen": "2026-09-07T09:52:34.692136",
+    "company": "Bloomreach",
+    "title": "Service Delivery Manager",
+    "fit_score": 9,
+    "alerted": true
   }
 }
