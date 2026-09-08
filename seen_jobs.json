@@ -1637,5 +1637,13 @@
     "title": "Service Delivery Manager",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://job-boards.eu.greenhouse.io/ebury/jobs/4970007101": {
+    "status": "skipped_location",
+    "title": "(Senior) Product Manager - Client Platform"
+  },
+  "https://job-boards.eu.greenhouse.io/ebury/jobs/4970008101": {
+    "status": "skipped_location",
+    "title": "(Senior) Product Manager - Client Platform"
   }
 }
