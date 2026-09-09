@@ -1645,5 +1645,23 @@
   "https://job-boards.eu.greenhouse.io/ebury/jobs/4970008101": {
     "status": "skipped_location",
     "title": "(Senior) Product Manager - Client Platform"
+  },
+  "https://www.globallogic.com/careers/c-qa-automation-engineer-irc303289/": {
+    "status": "skipped_location",
+    "title": "United States C# QA Automation Engineer IRC303289"
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/6185521004": {
+    "first_seen": "2026-09-09T09:19:06.775495",
+    "company": "Hightouch",
+    "title": "Product Manager, Real TimeRemote (North America)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/hightouch/jobs/6185678004": {
+    "first_seen": "2026-09-09T09:19:27.734126",
+    "company": "Hightouch",
+    "title": "Product Manager, Marketing OrchestrationRemote (North America)",
+    "fit_score": 8,
+    "alerted": true
   }
 }
