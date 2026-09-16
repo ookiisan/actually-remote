@@ -1688,5 +1688,20 @@
   "https://jobs.ashbyhq.com/cleo-2/1f6a0165-7cde-4649-85ae-ab86c0bf9db7": {
     "status": "skipped_location",
     "title": "Lead Product Manager, ChatUnited Kingdom (Hybrid)"
+  },
+  "https://www.globallogic.com/careers/technical-project-manager-irc302098/": {
+    "status": "skipped_location",
+    "title": "United States Technical Project Manager IRC302098"
+  },
+  "https://www.globallogic.com/careers/lead-qa-automation-engineer-irc301298/": {
+    "status": "skipped_location",
+    "title": "United States Lead QA Automation Engineer IRC301298"
+  },
+  "https://growe.com/career/vacancy/4953912101": {
+    "first_seen": "2026-09-16T09:35:53.245496",
+    "company": "Growe",
+    "title": "Middle Manual QA Engineer",
+    "fit_score": 1,
+    "alerted": false
   }
 }
