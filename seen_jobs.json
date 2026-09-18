@@ -1703,5 +1703,23 @@
     "title": "Middle Manual QA Engineer",
     "fit_score": 1,
     "alerted": false
+  },
+  "https://apply.workable.com/optimile/j/8A17523D7F": {
+    "status": "skipped_location",
+    "title": "QA Engineer"
+  },
+  "https://careers.fyul.com/jobs/8384080-marketing-project-manager-mentorship": {
+    "first_seen": "2026-09-18T09:18:40.296649",
+    "company": "Printify",
+    "title": "Marketing Project Manager (Mentorship)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://remote.com/openings/7799283003": {
+    "first_seen": "2026-09-18T09:19:30.683283",
+    "company": "Remote",
+    "title": "GTM Product Manager",
+    "fit_score": 9,
+    "alerted": true
   }
 }
