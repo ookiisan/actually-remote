@@ -1732,5 +1732,9 @@
   "https://go.zelt.app/careers/zelt4/jobs/": {
     "status": "skipped_location",
     "title": "Product Manager London · Fulltime"
+  },
+  "https://job-boards.greenhouse.io/reddit/jobs/8212175": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, Go-To-Market Systems Chicago, IL"
   }
 }
