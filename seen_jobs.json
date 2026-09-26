@@ -1736,5 +1736,12 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8212175": {
     "status": "skipped_location",
     "title": "Senior Product Manager, Go-To-Market Systems Chicago, IL"
+  },
+  "https://job-boards.greenhouse.io/shopfully/jobs/7959903": {
+    "first_seen": "2026-09-26T09:37:29.465285",
+    "company": "Shopfully",
+    "title": "Project Manager - Digital Transformation (Eastern Europe)NewItaly",
+    "fit_score": 9,
+    "alerted": true
   }
 }
