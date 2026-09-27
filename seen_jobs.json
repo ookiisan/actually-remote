@@ -1743,5 +1743,9 @@
     "title": "Project Manager - Digital Transformation (Eastern Europe)NewItaly",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7997442003": {
+    "status": "skipped_location",
+    "title": "Program Manager, Growth, Monetization & Strategic Initiatives"
   }
 }
