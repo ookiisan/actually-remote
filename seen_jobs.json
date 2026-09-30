@@ -1751,5 +1751,12 @@
   "https://jobs.ashbyhq.com/cleo-2/08d0b4d0-b272-467d-b277-cc58356d5228": {
     "status": "skipped_location",
     "title": "Lead Product Manager, BorrowUnited Kingdom (Hybrid)"
+  },
+  "https://growe.com/career/vacancy/4965011101": {
+    "first_seen": "2026-09-30T10:49:24.854019",
+    "company": "Growe",
+    "title": "Payment Product Manager",
+    "fit_score": 8,
+    "alerted": true
   }
 }
