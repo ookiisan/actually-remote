@@ -1762,5 +1762,20 @@
   "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126": {
     "status": "skipped_location",
     "title": "Product ManagerSan Francisco, California"
+  },
+  "https://openzeppelin.com/careers/opening?gh_jid=7992608003": {
+    "status": "skipped_location",
+    "title": "Program Manager (Customer Success)"
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/8226128": {
+    "first_seen": "2026-10-02T10:48:29.330385",
+    "company": "Planet",
+    "title": "Program Manager, German Civil GovernmentNewBerlin, Germany",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.fyul.com/jobs/8486602-product-manager-production": {
+    "status": "skipped_location",
+    "title": "Product Manager - Production"
   }
 }
