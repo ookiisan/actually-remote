@@ -1777,5 +1777,26 @@
   "https://careers.fyul.com/jobs/8486602-product-manager-production": {
     "status": "skipped_location",
     "title": "Product Manager - Production"
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5439518008": {
+    "first_seen": "2026-10-04T10:48:30.130820",
+    "company": "ThriveCart",
+    "title": "Quality Assurance EngineerNewRemote - Latin America",
+    "fit_score": 1,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5439512008": {
+    "first_seen": "2026-10-04T10:48:45.407541",
+    "company": "ThriveCart",
+    "title": "Product Manager – PaymentsNewRemote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/6211910004?gh_jid=6211910004": {
+    "first_seen": "2026-10-04T10:49:52.041943",
+    "company": "Visly",
+    "title": "Technical Program Manager, AI Tooling",
+    "fit_score": 8,
+    "alerted": true
   }
 }
