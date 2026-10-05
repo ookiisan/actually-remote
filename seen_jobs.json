@@ -1798,5 +1798,19 @@
     "title": "Technical Program Manager, AI Tooling",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/8249295": {
+    "first_seen": "2026-10-05T11:56:56.292249",
+    "company": "Bloomreach",
+    "title": "Quality Assurance Engineer II",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/bloomreach/jobs/8249296": {
+    "first_seen": "2026-10-05T11:57:43.040428",
+    "company": "Bloomreach",
+    "title": "Quality Assurance Engineer II",
+    "fit_score": 8,
+    "alerted": true
   }
 }
