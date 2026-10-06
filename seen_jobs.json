@@ -1812,5 +1812,16 @@
     "title": "Quality Assurance Engineer II",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://jobs.ashbyhq.com/cleo-2/8cb7ef84-d091-44eb-a392-95c2c54ded89": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager, SpendUnited Kingdom (Hybrid)"
+  },
+  "https://boards.greenhouse.io/figma/jobs/6214991004?gh_jid=6214991004": {
+    "first_seen": "2026-10-06T11:37:41.628956",
+    "company": "Figma",
+    "title": "Payroll Program Manager",
+    "fit_score": 3,
+    "alerted": false
   }
 }
