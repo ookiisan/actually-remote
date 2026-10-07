@@ -1823,5 +1823,27 @@
     "title": "Payroll Program Manager",
     "fit_score": 3,
     "alerted": false
+  },
+  "https://www.globallogic.com/careers/program-manager-cpq-irc304288/": {
+    "status": "skipped_location",
+    "title": "United States Program Manager – CPQ IRC304288"
+  },
+  "https://hightouch.com/careers/605ee3f7-4e5b-414f-a2cf-c97112513b38": {
+    "first_seen": "2026-10-07T11:26:24.260262",
+    "company": "Hightouch",
+    "title": "Forward Deployed Product ManagerRemote (North America)",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://hightouch.com/careers/28cb18d8-7047-4cc1-b853-7629d06c706a": {
+    "status": "ai_failed",
+    "title": "Product Manager, Marketing OrchestrationRemote (North America)"
+  },
+  "https://hightouch.com/careers/12f9b220-62a0-403d-8b20-3af3cabf933c": {
+    "first_seen": "2026-10-07T11:27:39.547395",
+    "company": "Hightouch",
+    "title": "Product Manager, Real TimeRemote (North America)",
+    "fit_score": 8,
+    "alerted": true
   }
 }
