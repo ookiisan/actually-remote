@@ -1856,5 +1856,26 @@
   "https://jobs.opera.com/jobs/8499295-product-manager": {
     "status": "skipped_location",
     "title": "Product Manager"
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/5002109101": {
+    "first_seen": "2026-10-10T10:53:02.380597",
+    "company": "SportyGroup",
+    "title": "Technical Project ManagerNewEMEA",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622": {
+    "first_seen": "2026-10-10T10:53:47.513583",
+    "company": "Supabase",
+    "title": "Product Manager - RealtimeRemote, GlobalApply for position",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50": {
+    "first_seen": "2026-10-10T10:54:04.939712",
+    "company": "Supabase",
+    "title": "Product Manager - AuthRemote, GlobalApply for position",
+    "fit_score": 9,
+    "alerted": true
   }
 }
