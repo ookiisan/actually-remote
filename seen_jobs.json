@@ -1885,5 +1885,12 @@
   "https://www.fivetran.com/careers/job?gh_jid=8008070003": {
     "status": "skipped_location",
     "title": "Senior Program Manager"
+  },
+  "https://job-boards.greenhouse.io/customerio/jobs/8259617": {
+    "first_seen": "2026-10-13T12:19:45.795827",
+    "company": "Customer.io",
+    "title": "Product Manager, AgentAmericasRemoteApply",
+    "fit_score": 8,
+    "alerted": true
   }
 }
