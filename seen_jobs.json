@@ -1892,5 +1892,136 @@
     "title": "Product Manager, AgentAmericasRemoteApply",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://job-boards.greenhouse.io/lastpass/jobs/4741445005": {
+    "first_seen": "2026-10-15T09:30:43.185905",
+    "company": "LastPass",
+    "title": "Senior Product Manager, Web GrowthNewRemote - US",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27630": {
+    "first_seen": "2026-10-15T09:31:30.861027",
+    "company": "Loom",
+    "title": "Principal Technical Program Manager",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27552": {
+    "first_seen": "2026-10-15T09:31:48.546837",
+    "company": "Loom",
+    "title": "Principal Technical Program Manager,",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27224": {
+    "first_seen": "2026-10-15T09:32:06.369764",
+    "company": "Loom",
+    "title": "Principal Technical Program Manager - Trust",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27291": {
+    "first_seen": "2026-10-15T09:32:25.643840",
+    "company": "Loom",
+    "title": "Principal Product Manager, Confluence Aggregation",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27274": {
+    "first_seen": "2026-10-15T09:32:48.351557",
+    "company": "Loom",
+    "title": "Senior Product Manager - Forge (Developer Platform)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27433": {
+    "first_seen": "2026-10-15T09:33:04.270440",
+    "company": "Loom",
+    "title": "Product Manager, Atlassian Government Cloud",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27092": {
+    "first_seen": "2026-10-15T09:33:24.209832",
+    "company": "Loom",
+    "title": "Principal Product Manager, Focus",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26663": {
+    "status": "ai_failed",
+    "title": "Senior Product Manager, Data Cloud and Connectors"
+  },
+  "https://www.loom.com/company/careers/details/26662": {
+    "first_seen": "2026-10-15T09:33:57.189117",
+    "company": "Loom",
+    "title": "Senior Product Manager, Self-Reported Insights",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26340": {
+    "first_seen": "2026-10-15T09:34:19.048177",
+    "company": "Loom",
+    "title": "Principal Product Manager, System Insights for DX",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26289": {
+    "first_seen": "2026-10-15T09:34:40.723328",
+    "company": "Loom",
+    "title": "Product Manager, Rovo",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27326": {
+    "first_seen": "2026-10-15T09:35:02.618240",
+    "company": "Loom",
+    "title": "Senior Product Manager - IT Operations",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27197": {
+    "first_seen": "2026-10-15T09:35:23.996620",
+    "company": "Loom",
+    "title": "Principal Product Manager (CMK/Encryption Platform)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27426": {
+    "first_seen": "2026-10-15T09:35:55.164145",
+    "company": "Loom",
+    "title": "Principal Outbound Product Manager, Service Collection",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27365": {
+    "status": "ai_failed",
+    "title": "Principal Program Manager, Sales & Success Strategy"
+  },
+  "https://www.loom.com/company/careers/details/27700": {
+    "first_seen": "2026-10-15T09:36:19.402388",
+    "company": "Loom",
+    "title": "Customer Program Manager | DX",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26643": {
+    "first_seen": "2026-10-15T09:36:41.987762",
+    "company": "Loom",
+    "title": "Security Testing Engineer - Penetration Tester",
+    "fit_score": 1,
+    "alerted": false
+  },
+  "https://www.loom.com/company/careers/details/26951": {
+    "first_seen": "2026-10-15T09:37:06.903936",
+    "company": "Loom",
+    "title": "Senior Enterprise Delivery Manager, Migrations",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26793": {
+    "status": "ai_failed",
+    "title": "Principal Enterprise Delivery Manager"
   }
 }
