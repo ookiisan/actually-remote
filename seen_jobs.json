@@ -2023,5 +2023,19 @@
   "https://www.loom.com/company/careers/details/26793": {
     "status": "ai_failed",
     "title": "Principal Enterprise Delivery Manager"
+  },
+  "https://apply.remote.com/jobs/d4ca1071-08e8-4499-bc25-4c73b7cd8545": {
+    "first_seen": "2026-10-16T09:25:35.450116",
+    "company": "Remote",
+    "title": "Senior Product Manager (Evergreen)",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://apply.remote.com/jobs/2782e924-1848-4d56-8733-0453fa35056e": {
+    "first_seen": "2026-10-16T09:25:53.613768",
+    "company": "Remote",
+    "title": "Senior Product Manager, Remote Build",
+    "fit_score": 9,
+    "alerted": true
   }
 }
