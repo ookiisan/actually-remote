@@ -2048,5 +2048,9 @@
   "https://jobs.ashbyhq.com/cleo-2/861e3685-1a87-4625-94fb-a7c612d4bba2": {
     "status": "skipped_location",
     "title": "Lead Product Manager, Risk Decisioning United States"
+  },
+  "https://www.loom.com/company/careers/details/27781": {
+    "status": "ai_failed",
+    "title": "Principal Technical Program Manager"
   }
 }
