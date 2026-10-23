@@ -2052,5 +2052,12 @@
   "https://www.loom.com/company/careers/details/27781": {
     "status": "ai_failed",
     "title": "Principal Technical Program Manager"
+  },
+  "https://careers.fyul.com/jobs/8592773-product-manager-production": {
+    "first_seen": "2026-10-23T09:41:21.831878",
+    "company": "Printify",
+    "title": "Product Manager - Production",
+    "fit_score": 8,
+    "alerted": true
   }
 }
