@@ -2082,5 +2082,32 @@
   "https://job-boards.eu.greenhouse.io/ebury/jobs/5013458101": {
     "status": "skipped_location",
     "title": "FX Solution Product Manager - Maritime"
+  },
+  "https://hightouch.com/careers/76c6864e-8ce4-4242-b1ff-099252afee6c": {
+    "first_seen": "2026-10-28T10:55:01.197781",
+    "company": "Hightouch",
+    "title": "Sales Development Enablement Program ManagerRemote (North America)",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/hostinger/53fa458d-2227-44b5-9929-43652d35ea45": {
+    "status": "skipped_location",
+    "title": "Product ManagerProductView details"
+  },
+  "https://jobs.ashbyhq.com/hostinger/84375e36-8071-453e-a1dc-9901e6e4b188": {
+    "status": "skipped_location",
+    "title": "Product Manager | Domains Team ProductView details"
+  },
+  "https://jobs.ashbyhq.com/hostinger/d7aeaead-1ce3-47ae-8820-d76f82c9cb9c": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager | Web HostingProductView details"
+  },
+  "https://jobs.ashbyhq.com/hostinger/0b902091-4dfd-45d3-8269-45ce096523a1": {
+    "status": "skipped_location",
+    "title": "QA Practice LeadProductView details"
+  },
+  "https://infisical.com/careers/founding-product-manager": {
+    "status": "skipped_location",
+    "title": "↳Founding Product ManagerUnited States"
   }
 }
