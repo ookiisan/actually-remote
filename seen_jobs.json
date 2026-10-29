@@ -2109,5 +2109,30 @@
   "https://infisical.com/careers/founding-product-manager": {
     "status": "skipped_location",
     "title": "↳Founding Product ManagerUnited States"
+  },
+  "https://www.loom.com/company/careers/details/27205": {
+    "first_seen": "2026-10-29T11:11:12.680326",
+    "company": "Loom",
+    "title": "Senior Principal Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27621": {
+    "first_seen": "2026-10-29T11:11:34.252227",
+    "company": "Loom",
+    "title": "Principal Product Manager, Product Collection Growth",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27422": {
+    "first_seen": "2026-10-29T11:11:57.766150",
+    "company": "Loom",
+    "title": "Principal Program Manager, Sales Strategy",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://jobs.ashbyhq.com/notion/414aea17-4326-4e95-84e6-09f87cb79468": {
+    "status": "skipped_location",
+    "title": "Enablement Program Manager, Japan and KoreaTokyo, Japan"
   }
 }
