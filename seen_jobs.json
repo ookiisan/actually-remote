@@ -2134,5 +2134,16 @@
   "https://jobs.ashbyhq.com/notion/414aea17-4326-4e95-84e6-09f87cb79468": {
     "status": "skipped_location",
     "title": "Enablement Program Manager, Japan and KoreaTokyo, Japan"
+  },
+  "https://careers.phorest.com/jobs/8574486-product-manager-senior-product-manager": {
+    "status": "ai_failed",
+    "title": "Product Manager / Senior Product Manager"
+  },
+  "https://job-boards.greenhouse.io/planetscale/jobs/4473491009": {
+    "first_seen": "2026-10-30T11:06:15.702698",
+    "company": "Planet Scale",
+    "title": "Compliance Program ManagerNewRemote - US",
+    "fit_score": 6,
+    "alerted": false
   }
 }
