@@ -2145,5 +2145,16 @@
     "title": "Compliance Program ManagerNewRemote - US",
     "fit_score": 6,
     "alerted": false
+  },
+  "https://career.spendesk.com/jobs/8632310-senior-product-manager-financial-services-ops": {
+    "status": "skipped_location",
+    "title": "Senior Product Manager - Financial Services Ops"
+  },
+  "https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892": {
+    "first_seen": "2026-10-31T10:40:31.905730",
+    "company": "Supabase",
+    "title": "Product Manager - SparkRemote, GlobalApply for position",
+    "fit_score": 8,
+    "alerted": true
   }
 }
