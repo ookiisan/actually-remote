@@ -2156,5 +2156,13 @@
     "title": "Product Manager - SparkRemote, GlobalApply for position",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7818314003": {
+    "status": "skipped_location",
+    "title": "Senior Program Manager"
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=8007245003": {
+    "status": "skipped_location",
+    "title": "Staff Product Manager, Databases"
   }
 }
