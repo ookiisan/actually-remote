@@ -2168,5 +2168,19 @@
   "https://boards.greenhouse.io/figma/jobs/6134770004?gh_jid=6134770004": {
     "status": "skipped_location",
     "title": "Product Manager, Collaboration Tools"
+  },
+  "https://www.loom.com/company/careers/details/28403": {
+    "first_seen": "2026-11-05T12:51:01.457541",
+    "company": "Loom",
+    "title": "Group Product Manager, Global Experiences Platform",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/26958": {
+    "first_seen": "2026-11-05T12:51:26.339937",
+    "company": "Loom",
+    "title": "Principal Product Manager, Usage Based Pricing",
+    "fit_score": 8,
+    "alerted": true
   }
 }
