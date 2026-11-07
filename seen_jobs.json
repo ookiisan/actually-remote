@@ -2186,5 +2186,12 @@
   "https://job-boards.greenhouse.io/reddit/jobs/8349881": {
     "status": "skipped_location",
     "title": "Business Analyst New York City, NY"
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8328909": {
+    "first_seen": "2026-11-07T11:25:25.737029",
+    "company": "Testlio",
+    "title": "Freelance Tester in NetherlandsNetherlands",
+    "fit_score": 2,
+    "alerted": false
   }
 }
