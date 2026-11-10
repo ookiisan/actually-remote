@@ -2193,5 +2193,12 @@
     "title": "Freelance Tester in NetherlandsNetherlands",
     "fit_score": 2,
     "alerted": false
+  },
+  "https://job-boards.greenhouse.io/customerio/jobs/8357735": {
+    "first_seen": "2026-11-10T13:07:55.832945",
+    "company": "Customer.io",
+    "title": "Senior Product Manager, WorkflowsAmericasRemoteApply",
+    "fit_score": 8,
+    "alerted": true
   }
 }
