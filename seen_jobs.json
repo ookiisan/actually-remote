@@ -2200,5 +2200,33 @@
     "title": "Senior Product Manager, WorkflowsAmericasRemoteApply",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://angel.co/jobs/4839462-senior-product-manager": {
+    "first_seen": "2026-11-11T12:17:25.843740",
+    "company": "GetSocial",
+    "title": "Senior Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4877575-senior-product-manager": {
+    "first_seen": "2026-11-11T12:17:45.929745",
+    "company": "GitDuck",
+    "title": "Senior Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4858635-digital-project-manager": {
+    "first_seen": "2026-11-11T12:18:03.456915",
+    "company": "GitDuck",
+    "title": "Digital Project Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4839255-principal-product-manager-payroll-platform": {
+    "first_seen": "2026-11-11T12:18:21.525724",
+    "company": "GitDuck",
+    "title": "Principal Product Manager, Payroll Platform",
+    "fit_score": 8,
+    "alerted": true
   }
 }
