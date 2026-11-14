@@ -2249,5 +2249,47 @@
     "title": "Project Manager",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e": {
+    "first_seen": "2026-11-14T11:52:22.691250",
+    "company": "Supabase",
+    "title": "Product Manager - PostgresRemote, GlobalApply for position",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8384245": {
+    "first_seen": "2026-11-14T11:53:20.468064",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote in BelgiumNewBelgium",
+    "fit_score": 6,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8384253": {
+    "first_seen": "2026-11-14T11:53:36.359529",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote in GermanyNewGermany",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8384250": {
+    "first_seen": "2026-11-14T11:53:56.861122",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote in ItalyNewItaly",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8384157": {
+    "first_seen": "2026-11-14T11:54:23.247111",
+    "company": "Testlio",
+    "title": "Website & App Tester | Remote, freelancerNewParaguay",
+    "fit_score": 3,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8384191": {
+    "first_seen": "2026-11-14T11:54:50.086568",
+    "company": "Testlio",
+    "title": "Website & App Tester | Remote, freelancerNewUruguay",
+    "fit_score": 5,
+    "alerted": false
   }
 }
