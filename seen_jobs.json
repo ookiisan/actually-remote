@@ -2291,5 +2291,37 @@
     "title": "Website & App Tester | Remote, freelancerNewUruguay",
     "fit_score": 5,
     "alerted": false
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5476686008": {
+    "first_seen": "2026-11-15T12:21:25.418486",
+    "company": "ThriveCart",
+    "title": "Product Manager (ThrivePages)NewRemote",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/thrivecart/jobs/5476683008": {
+    "first_seen": "2026-11-15T12:21:41.722669",
+    "company": "ThriveCart",
+    "title": "Product Manager (ThriveStudio)NewRemote",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/9F.472/ai-product-manager/all": {
+    "first_seen": "2026-11-15T12:22:26.706103",
+    "company": "Upwind",
+    "title": "AI Product Manager Tel Aviv · Full-time",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4959208-real-estate-project-manager": {
+    "first_seen": "2026-11-15T12:22:50.911519",
+    "company": "Vaultoro",
+    "title": "Real Estate Project Manager",
+    "fit_score": 1,
+    "alerted": false
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=8202018003": {
+    "status": "skipped_location",
+    "title": "Staff Program Manager - Knowledge Management"
   }
 }
