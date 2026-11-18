@@ -2323,5 +2323,33 @@
   "https://www.fivetran.com/careers/job?gh_jid=8202018003": {
     "status": "skipped_location",
     "title": "Staff Program Manager - Knowledge Management"
+  },
+  "https://angel.co/jobs/4874877-senior-project-manager": {
+    "first_seen": "2026-11-18T13:33:47.335871",
+    "company": "GitDuck",
+    "title": "Senior Project Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/gitlab/jobs/8784056002": {
+    "first_seen": "2026-11-18T13:34:05.660852",
+    "company": "GitLab",
+    "title": "Principal Technical Program ManagerBangalore, India",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/gitlab/jobs/8784185002": {
+    "first_seen": "2026-11-18T13:34:22.496404",
+    "company": "GitLab",
+    "title": "Technical Program ManagerBangalore, India",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://hightouch.com/careers/4fe7dade-b9ab-4923-9ef8-064409ffb61c": {
+    "first_seen": "2026-11-18T13:35:24.920992",
+    "company": "Hightouch",
+    "title": "Product Manager, MessagingRemote (North America)",
+    "fit_score": 8,
+    "alerted": true
   }
 }
