@@ -2351,5 +2351,13 @@
     "title": "Product Manager, MessagingRemote (North America)",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/27789": {
+    "status": "ai_failed",
+    "title": "Principal Forward Deployed Product Manager"
+  },
+  "https://www.loom.com/company/careers/details/27803": {
+    "status": "ai_failed",
+    "title": "Program Manager, Partner Capability"
   }
 }
