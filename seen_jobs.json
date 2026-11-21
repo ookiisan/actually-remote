@@ -2359,5 +2359,19 @@
   "https://www.loom.com/company/careers/details/27803": {
     "status": "ai_failed",
     "title": "Program Manager, Partner Capability"
+  },
+  "https://angel.co/jobs/5024388-product-manager-engineering": {
+    "first_seen": "2026-11-21T13:09:10.254599",
+    "company": "Surf Office",
+    "title": "Product Manager - Engineering",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4881966-senior-product-manager-growth-conversion": {
+    "first_seen": "2026-11-21T13:09:30.362253",
+    "company": "Surf Office",
+    "title": "Senior Product Manager, Growth & Conversion",
+    "fit_score": 8,
+    "alerted": true
   }
 }
