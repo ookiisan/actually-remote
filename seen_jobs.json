@@ -2373,5 +2373,23 @@
     "title": "Senior Product Manager, Growth & Conversion",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://angel.co/jobs/4879471-product-manager-radar": {
+    "first_seen": "2026-11-22T12:56:30.324018",
+    "company": "Vaultoro",
+    "title": "Product Manager, Radar",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://boards.greenhouse.io/figma/jobs/6261622004?gh_jid=6261622004": {
+    "first_seen": "2026-11-22T12:56:57.686301",
+    "company": "Visly",
+    "title": "Technical Program Manager, AI",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://www.fivetran.com/careers/job?gh_jid=7818224003": {
+    "status": "skipped_location",
+    "title": "Sr. Staff Technical Product Manager, Customer Support"
   }
 }
