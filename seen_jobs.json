@@ -2391,5 +2391,12 @@
   "https://www.fivetran.com/careers/job?gh_jid=7818224003": {
     "status": "skipped_location",
     "title": "Sr. Staff Technical Product Manager, Customer Support"
+  },
+  "https://boards.greenhouse.io/figma/jobs/6266479004?gh_jid=6266479004": {
+    "first_seen": "2026-11-24T15:26:05.395905",
+    "company": "Figma",
+    "title": "Product Manager, Billing",
+    "fit_score": 9,
+    "alerted": true
   }
 }
