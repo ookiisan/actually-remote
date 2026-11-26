@@ -2398,5 +2398,19 @@
     "title": "Product Manager, Billing",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/30177": {
+    "first_seen": "2026-11-26T14:35:49.735668",
+    "company": "Loom",
+    "title": "Principal Forward Deployed Product Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://www.loom.com/company/careers/details/28956": {
+    "first_seen": "2026-11-26T14:36:10.608731",
+    "company": "Loom",
+    "title": "Principal Product Manager, Enterprise Platform",
+    "fit_score": 8,
+    "alerted": true
   }
 }
