@@ -2412,5 +2412,37 @@
     "title": "Principal Product Manager, Enterprise Platform",
     "fit_score": 8,
     "alerted": true
+  },
+  "https://angel.co/jobs/4897943-staff-product-manager-identity": {
+    "first_seen": "2026-11-27T14:30:39.366254",
+    "company": "Paw",
+    "title": "Staff, Product Manager - Identity",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/8306456": {
+    "first_seen": "2026-11-27T14:31:20.042344",
+    "company": "Planet",
+    "title": "Senior Technical Program Manager, SolutionsBerlin, Germany",
+    "fit_score": 4,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/planetlabs/jobs/8396499": {
+    "first_seen": "2026-11-27T14:31:39.344220",
+    "company": "Planet",
+    "title": "Technical Program Manager, SolutionsNewLjubljana, Slovenia",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://angel.co/jobs/4928446-sr-project-manager": {
+    "first_seen": "2026-11-27T14:32:17.514845",
+    "company": "Prezly",
+    "title": "Sr. Project Manager",
+    "fit_score": 8,
+    "alerted": true
+  },
+  "https://careers.fyul.com/jobs/8779233-senior-erp-accounting-project-manager": {
+    "status": "skipped_location",
+    "title": "Senior ERP / Accounting Project Manager"
   }
 }
