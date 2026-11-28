@@ -2444,5 +2444,51 @@
   "https://careers.fyul.com/jobs/8779233-senior-erp-accounting-project-manager": {
     "status": "skipped_location",
     "title": "Senior ERP / Accounting Project Manager"
+  },
+  "https://job-boards.eu.greenhouse.io/sportygroup/jobs/5042667101": {
+    "first_seen": "2026-11-28T13:46:12.867011",
+    "company": "SportyGroup",
+    "title": "Data Project ManagerNewEMEA",
+    "fit_score": 9,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8412843": {
+    "first_seen": "2026-11-28T13:47:08.306911",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote (Argentina)NewArgentina",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8412847": {
+    "first_seen": "2026-11-28T13:47:31.471244",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote (Chile)NewChile",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8412852": {
+    "status": "ai_failed",
+    "title": "Freelance Software Tester | Remote (Guatemala)NewGuatemala"
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8417708": {
+    "first_seen": "2026-11-28T13:47:58.161550",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote (Malaysia)NewMalaysia",
+    "fit_score": 2,
+    "alerted": false
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8412854": {
+    "first_seen": "2026-11-28T13:48:23.327965",
+    "company": "Testlio",
+    "title": "Freelance Software Tester | Remote (Panama)NewPanama",
+    "fit_score": 7,
+    "alerted": true
+  },
+  "https://job-boards.greenhouse.io/testlio/jobs/8419629": {
+    "first_seen": "2026-11-28T13:48:47.005125",
+    "company": "Testlio",
+    "title": "Website & App Tester | Remote, freelancerNewParaguay",
+    "fit_score": 7,
+    "alerted": true
   }
 }
